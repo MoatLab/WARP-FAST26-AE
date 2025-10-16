@@ -1,0 +1,1618 @@
+Linux 6.10.0-fdp-enabler+ (inhoinnofemu) 	09/12/2025 	_x86_64_	(16 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.22    0.00    0.76    0.40    1.75   96.87
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.23         0.01         0.04        93.57         15        120     262144
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.87    0.00    3.24    0.25    3.92   91.72
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           1.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.55    0.00    5.70    0.31    5.89   87.55
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.37    0.00    5.21    0.31    6.02   88.08
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    4.83    6.20    3.90   84.88
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    4.05    0.00    7.79   87.97
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.58    0.00    2.45    0.00    3.61   93.37
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.53    0.06    3.92   93.35
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.76    0.00    4.48    0.06   10.67   84.03
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    4.98    0.06    6.25   88.64
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          70.00         0.00        75.95         0.00          0         75          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.69    0.12    4.90   93.23
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          39.81         0.13         0.77         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.09    0.06    3.29   94.43
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.32    0.00    3.71    0.19    5.70   90.08
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.51    0.00    3.38    0.00    6.13   89.97
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    4.55    0.00    9.10   85.85
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    6.16    0.00    5.34   88.44
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         124.00         0.00       124.00         0.00          0        124          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.05    0.00    7.36   87.52
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         103.00         0.00       101.50         0.00          0        101          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    6.22    0.13    5.40   88.19
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         149.00         0.00       148.00         0.00          0        148          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.20    0.00    3.98    0.00    4.70   91.12
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          85.00         0.00        83.00         0.00          0         83          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.38    0.00    5.36    0.00    6.74   87.52
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.93    0.00    4.04    1.06   10.25   83.73
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.04    0.00    3.05   94.85
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.26    0.00    2.43    0.06    3.90   93.35
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.46    0.00    5.60   91.88
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.03    0.00    3.50   94.28
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.50    0.00    4.60    0.37   10.93   83.60
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.90    0.00    3.59    0.13    8.66   86.72
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.56    0.00    2.88    0.13    9.51   86.92
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    2.77    0.12    9.19   87.79
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    4.58    0.06    8.53   86.83
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         121.00         0.02        81.66         0.00          0         81          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.86    0.00    2.82   95.20
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           8.91         0.00         8.42         0.00          0          8          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.68    0.00    6.50    0.25   14.30   78.27
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          72.00         0.00        71.50         0.00          0         71          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    3.49    0.06   10.79   85.59
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          79.00         0.00        78.50         0.00          0         78          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    4.04    0.06    4.42   91.35
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          43.00         0.00        42.00         0.00          0         42          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.68    0.00    4.61    0.19    9.34   85.18
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          44.00         0.00        44.00         0.00          0         44          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.16    0.32    8.73   85.67
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          91.00         0.00        90.50         0.00          0         90          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    5.30    0.00    9.15   85.29
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          68.00         0.00        68.00         0.00          0         68          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    5.18    0.43   12.83   81.06
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          88.00         0.00        89.00         0.00          0         89          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.14    0.13    9.21   85.40
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         105.00         0.00       103.50         0.00          0        103          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    5.14    0.00    8.57   86.03
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         114.00         0.00       113.00         0.00          0        113          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.39    0.00    6.88    0.00   11.74   79.99
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         116.00         0.00       116.00         0.00          0        116          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.55    0.00    9.40    0.12   13.48   75.45
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         114.00         0.00       112.00         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.50    0.00    7.16    0.13   10.62   81.60
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         121.00         0.00       120.00         0.00          0        120          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.50    0.00    6.08   88.36
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         113.00         0.00       112.50         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    6.21    0.06    8.37   85.36
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         110.00         0.00       110.00         0.00          0        110          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    6.01    0.38    8.54   84.87
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          74.00         0.00        74.00         0.00          0         74          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    3.83    0.00    5.77   90.15
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.09    0.06    6.28   91.38
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.94    0.00    6.24    0.00    7.87   84.96
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    3.72    0.25   11.03   84.88
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          18.00         0.00        17.00         0.00          0         17          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    4.03    0.56   10.55   84.79
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.03        57.60         0.00          0         57          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    4.57    0.00    7.81   87.37
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          95.00         0.00        95.50         0.00          0         95          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.96    0.00    2.96   94.01
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          36.00         0.00        34.50         0.00          0         34          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.67    0.00    8.24    0.24   11.60   79.24
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         113.00         0.00       112.00         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    7.66    0.19    9.74   82.10
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         135.00         0.00       134.50         0.00          0        134          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.68    0.00    3.99    0.56    9.40   85.37
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          34.00         0.00        33.50         0.00          0         33          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.59    0.19    7.31   86.84
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         133.00         0.00       132.00         0.00          0        132          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    4.82    0.13    8.65   86.28
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          98.00         0.00        97.50         0.00          0         97          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.46    0.06    8.73   85.61
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.00       111.50         0.00          0        111          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.47    0.00    6.66    0.64   15.78   76.45
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         109.00         0.00       107.00         0.00          0        107          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    4.90    0.19    6.68   88.10
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         110.00         0.00       108.50         0.00          0        108          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    4.94    0.25    9.70   84.79
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         106.00         0.00       105.00         0.00          0        105          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.94    0.00    5.70    0.06   12.71   80.59
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          80.00         0.00        80.00         0.00          0         80          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    4.16    1.83    9.64   84.18
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          82.00         0.00        82.00         0.00          0         82          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.43    0.00    5.95    0.00   11.96   81.66
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          94.00         0.00        92.00         0.00          0         92          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    5.53    0.19    4.97   88.99
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          65.00         0.00        65.00         0.00          0         65          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.55    0.51    5.95   89.80
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    3.40    0.06    1.35   95.13
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    2.13    0.00    6.83   90.79
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.43    0.00    5.55    0.06    9.43   84.53
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          43.00         0.00        35.44         0.00          0         35          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.40    0.00    5.48    0.00   17.43   76.69
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         166.00         0.02       119.08         0.00          0        119          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    4.79    0.57    5.80   88.66
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          45.00         0.00        44.00         0.00          0         44          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    7.30    0.06    6.29   86.16
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         163.00         0.00       160.50         0.00          0        160          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    4.25    0.00    4.25   91.37
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          46.00         0.00        45.50         0.00          0         45          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.52    0.00    5.91   88.51
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.00       111.00         0.00          0        111          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.32    0.00    4.12    0.06    8.04   87.46
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          52.00         0.00        51.50         0.00          0         51          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.14    0.00    8.42    0.00   15.46   74.97
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         132.00         0.00       131.00         0.00          0        131          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    6.58    0.38    9.11   83.86
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         109.00         0.00       108.50         0.00          0        108          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    6.24    0.00    7.20   86.43
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         142.00         0.00       141.50         0.00          0        141          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    5.99    0.06    7.76   86.00
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         117.82         0.00       116.34         0.00          0        117          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    7.06    0.06    5.91   86.84
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         189.00         0.00       187.00         0.00          0        187          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    7.79    0.19    8.79   82.93
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         132.00         0.00       131.50         0.00          0        131          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.62    0.00    5.32    0.06    9.02   84.98
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          82.00         0.00        82.00         0.00          0         82          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.38    0.00    4.05    0.00    4.94   90.63
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    3.07    0.00    4.02   92.66
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    5.68    0.12    6.50   87.57
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         138.00         0.02        84.45         0.00          0         84          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    8.01    0.63    8.70   82.53
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         120.00         0.00       120.00         0.00          0        120          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.55    0.00    7.87    0.00   11.00   80.58
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         106.00         0.00       105.00         0.00          0        105          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.86    0.13    8.19   85.70
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          91.00         0.00        91.00         0.00          0         91          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    6.04    0.06   13.91   79.74
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          99.00         0.00        99.00         0.00          0         99          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.63    0.00    6.91    0.00   10.24   82.22
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         117.00         0.00       117.00         0.00          0        117          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.45    0.06    8.97   87.39
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          11.00         0.00        11.00         0.00          0         11          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    5.69    0.13    5.49   88.68
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         116.00         0.00       116.00         0.00          0        116          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.42    0.00    6.20    0.06   15.95   77.36
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         110.00         0.00       109.50         0.00          0        109          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    6.01    0.00    7.20   86.67
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          97.00         0.00        96.50         0.00          0         96          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    6.97    0.00    6.33   86.45
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         135.00         0.00       133.50         0.00          0        133          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    6.38    0.32    8.84   84.28
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         129.00         0.00       129.00         0.00          0        129          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.51    0.00    6.27    0.00    9.30   83.92
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         122.00         0.00       122.00         0.00          0        122          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    7.42    0.06   10.95   81.26
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         118.00         0.00       118.00         0.00          0        118          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    3.61    0.06    6.85   89.23
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           5.00         0.00         5.00         0.00          0          5          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    6.98    0.06    4.65   88.12
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          65.00         0.00        62.03         0.00          0         62          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    4.76    0.06    7.14   87.98
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         145.00         0.03        93.49         0.00          0         93          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    6.59    0.19    6.71   86.38
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         110.00         0.00       109.00         0.00          0        109          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.43    0.00    3.67    0.06   11.51   84.33
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          31.00         0.00        30.50         0.00          0         30          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.09    0.00    8.30    0.18   15.58   74.85
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         102.00         0.00       102.50         0.00          0        102          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    3.21    0.06    5.21   91.45
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          85.00         0.00        84.00         0.00          0         84          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.94    0.06    6.13   89.74
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          36.00         0.00        36.00         0.00          0         36          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    6.18    0.32    8.85   84.46
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         121.00         0.00       120.50         0.00          0        120          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.56    0.13    8.66   85.59
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         120.00         0.00       119.50         0.00          0        119          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    5.03    0.00   11.25   83.41
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          92.00         0.00        90.00         0.00          0         90          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.80    0.00    7.63    0.00   12.61   78.97
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          99.00         0.00        98.00         0.00          0         98          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    6.70    0.00   11.25   81.75
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         120.00         0.00       118.50         0.00          0        118          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    4.76    0.19    8.48   86.51
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         113.00         0.00       113.00         0.00          0        113          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.07    0.00    5.25    0.13    6.37   88.18
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         139.00         0.00       137.50         0.00          0        137          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.41    0.00    6.24   88.29
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         124.00         0.00       124.00         0.00          0        124          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.37    0.00    4.29    0.00   12.86   82.48
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          30.00         0.00        30.00         0.00          0         30          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.32    0.00    2.40    0.00    5.30   91.98
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.32    0.00    4.11    0.13    8.29   87.15
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    3.45    0.12    6.78   89.15
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    6.00    0.00    4.08   89.92
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         173.00         0.02       119.86         0.00          0        119          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.94    0.00    6.01   89.92
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          32.00         0.00        31.50         0.00          0         31          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.62    0.00    7.79    0.00   11.16   80.42
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.00       112.00         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    6.88    0.62    8.31   84.06
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         127.00         0.00       125.00         0.00          0        125          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.07    0.13    6.38   88.29
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         108.00         0.00       108.00         0.00          0        108          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    5.92    0.00    9.26   84.51
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         102.00         0.00       101.50         0.00          0        101          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.56    0.00    5.97    0.00    9.33   84.13
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          60.00         0.00        59.50         0.00          0         59          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.24    0.00    9.63    0.67    9.57   79.89
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         138.61         0.00       135.64         0.00          0        137          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.32    0.00    7.30    0.06    7.04   85.28
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         119.19         0.00       118.18         0.00          0        117          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    7.22    0.19    7.35   84.93
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         121.78         0.00       121.78         0.00          0        123          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    6.69    0.19    7.39   85.54
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         114.00         0.00       112.50         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.05    0.19    6.33   88.37
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         106.00         0.00       104.50         0.00          0        104          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    6.39    0.00   13.77   79.35
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          99.00         0.00        98.00         0.00          0         98          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.97    0.00    9.50    0.18   13.74   75.61
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         123.00         0.00       122.50         0.00          0        122          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    4.88    0.00    7.00   87.99
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         147.00         0.02        91.89         0.00          0         91          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    7.66    0.19    6.78   85.24
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         128.71         0.00       128.22         0.00          0        129          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    4.86    0.00    5.82   89.32
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         106.00         0.00       105.50         0.00          0        105          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.90    0.00    4.57   92.41
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          25.00         0.00        25.00         0.00          0         25          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.50    0.00    7.17    0.00   10.34   81.99
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         126.00         0.00       126.00         0.00          0        126          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.71    0.00    6.76    0.06   13.69   78.78
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          93.33         0.00        93.33         0.00          0         98          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    5.74    0.06    7.88   86.13
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         125.00         0.00       123.50         0.00          0        123          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    6.76    0.00    5.93   87.25
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         126.00         0.00       125.00         0.00          0        125          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    4.43    0.00    7.13   88.30
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          79.00         0.00        79.00         0.00          0         79          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.38    0.00    5.38   89.12
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         111.00         0.00       111.00         0.00          0        111          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    8.03    0.00   12.81   78.68
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         121.00         0.00       120.50         0.00          0        120          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.66    0.00    6.42    0.11   20.20   72.61
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          97.37         0.00        96.49         0.00          0        110          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.44    0.00    6.62    0.44   11.62   80.89
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          87.00         0.00        85.50         0.00          0         85          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    5.73    0.00   11.34   82.68
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         132.00         0.00       131.00         0.00          0        131          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    3.22    0.13    7.15   89.44
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          51.00         0.00        50.50         0.00          0         50          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.45    0.00    6.14   90.21
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.44    0.00    4.24    0.19    3.43   91.70
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    6.84    0.25    7.16   85.50
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          58.00         0.00        55.37         0.00          0         55          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    4.07    0.06    6.67   89.01
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          90.00         0.02        38.05         0.00          0         38          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.50    0.00    7.55    0.25   10.88   80.82
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         102.00         0.00       102.00         0.00          0        102          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    5.97    0.00    6.67   87.30
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         127.00         0.00       126.50         0.00          0        126          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    6.37    0.12   10.72   82.29
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          74.00         0.00        73.00         0.00          0         73          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    5.64    0.26    7.05   87.05
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          98.00         0.00        97.50         0.00          0         97          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    4.07    0.00   15.50   80.30
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          81.00         0.00        80.00         0.00          0         80          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.74    0.00    5.96   90.17
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          62.00         0.00        61.50         0.00          0         61          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    5.77    0.13    6.73   87.19
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         106.00         0.00       106.00         0.00          0        106          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.79    0.00    7.10    0.06   19.89   72.16
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         117.00         0.00       117.00         0.00          0        117          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.25    0.00    9.19    0.00   17.12   71.44
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         110.00         0.00       109.00         0.00          0        109          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    5.96    0.00   10.47   83.32
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          95.05         0.00        94.55         0.00          0         95          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    6.56    0.00    5.41   88.03
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         137.00         0.00       135.00         0.00          0        135          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    6.19    0.06    6.94   86.68
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         136.00         0.00       136.00         0.00          0        136          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    5.85    0.19    7.11   86.72
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         126.00         0.00       122.00         0.00          0        122          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.18    0.00    7.72    0.61    8.21   83.27
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1           0.00         0.00         0.00         0.00          0          0          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.48    0.00    7.37    1.98   14.73   75.45
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          51.00         0.00        40.10         0.00          0         40          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    9.25    2.10   13.70   74.65
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         167.00         0.03       117.79         0.00          0        117          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.67    0.00   10.66    1.28   13.46   73.93
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         122.00         0.00       121.50         0.00          0        121          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.24    0.00   11.76    2.08   14.70   71.22
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          97.00         0.00        96.50         0.00          0         96          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.50    0.00   10.37    2.79   10.24   76.10
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         100.00         0.00        98.50         0.00          0         98          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.79    0.00   11.74    6.90   15.38   65.19
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.00       108.50         0.00          0        108          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00   10.81    0.37    6.77   81.91
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         176.00         0.00       173.00         0.00          0        173          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    9.41    0.19    7.74   82.49
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         127.00         0.00       127.00         0.00          0        127          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    9.58    0.00    6.59   83.71
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         144.00         0.00       141.50         0.00          0        141          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    9.54    0.56    9.66   80.25
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.00       108.50         0.00          0        108          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.24    0.00    8.41    1.21   13.86   76.27
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          93.00         0.00        90.00         0.00          0         90          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.14    0.00   11.97    1.14   16.64   69.12
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         114.00         0.00       112.00         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.18    0.00   11.58    0.68    8.01   79.54
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         135.00         0.00       129.00         0.00          0        129          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    8.63    0.25    4.41   86.59
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         188.00         0.04       117.29         0.00          0        117          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.63    0.50    9.73   82.08
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          84.00         0.00        80.00         0.00          0         80          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    8.26    0.13    6.69   84.80
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         137.00         0.00       127.50         0.00          0        127          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.67    0.00   10.10    0.18   10.35   78.69
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         132.00         0.00       128.50         0.00          0        128          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    7.85    0.43   10.57   80.90
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          83.00         0.00        81.00         0.00          0         81          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    9.78    1.78    9.29   78.91
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         131.00         0.00       125.50         0.00          0        125          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.55    0.00    8.53    1.29   12.21   77.42
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         112.00         0.00       109.00         0.00          0        109          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.56    0.00    8.01    1.18    7.95   82.31
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         144.00         0.00       123.00         0.00          0        123          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    8.12    0.75    6.93   84.13
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         153.00         0.00       149.00         0.00          0        149          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.80    0.00    9.63    0.93    7.78   80.86
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         159.00         0.00       156.50         0.00          0        156          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    9.24    1.44    5.43   83.71
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         184.00         0.00       168.00         0.00          0        168          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    8.48    1.25    5.61   84.65
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         163.00         0.00       152.50         0.00          0        152          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    8.69    1.06    8.57   81.50
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         142.00         0.00       123.00         0.00          0        123          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    9.44    2.04    9.44   78.59
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         146.00         0.00       140.50         0.00          0        140          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    9.50    1.59    9.13   79.29
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         149.00         0.00       145.00         0.00          0        145          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    8.43    1.24    7.00   83.02
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         176.00         0.00       173.00         0.00          0        173          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.55    1.87    5.43   85.09
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         176.00         0.00       172.00         0.00          0        172          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    6.22    0.81    5.90   86.89
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         162.00         0.00       116.64         0.00          0        116          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    9.19    0.31    5.16   85.22
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         200.00         0.04       158.36         0.00          0        158          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.44    0.00    9.34    0.93    7.47   81.82
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         172.00         0.00       166.00         0.00          0        166          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.61    0.00   10.99    1.28   17.61   69.52
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         114.00         0.00       112.50         0.00          0        112          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    8.40    1.36    8.58   81.17
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         133.00         0.00       130.50         0.00          0        130          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.53    2.05    5.92   84.43
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         134.00         0.00       131.00         0.00          0        131          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    8.19    1.69    5.06   84.88
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         156.00         0.00       153.00         0.00          0        153          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.32    0.13    6.45   86.05
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         126.00         0.00       122.50         0.00          0        122          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.48    0.00    7.67    0.06   13.04   78.74
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          94.00         0.00        89.00         0.00          0         89          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    9.22    0.31    8.42   81.75
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         121.00         0.00       119.50         0.00          0        119          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    7.97    1.48   10.32   79.73
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         113.86         0.00       112.87         0.00          0        114          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.67    0.00    9.61    2.01   14.29   73.42
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         107.00         0.00       105.00         0.00          0        105          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    8.24    0.25    8.30   83.16
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         124.00         0.00       119.50         0.00          0        119          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    7.32    1.55    7.26   83.61
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         156.00         0.00       152.50         0.00          0        152          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.61    0.00    9.63    0.55   11.41   77.79
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         155.00         0.00       140.00         0.00          0        140          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    9.75    0.38    4.81   84.94
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         192.00         0.00       168.00         0.00          0        168          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    7.53    0.62    8.15   83.51
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         136.00         0.00       132.50         0.00          0        132          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.87    1.43    7.75   82.89
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         127.00         0.00       125.50         0.00          0        125          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    8.12    3.38   10.65   77.54
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          95.00         0.00        93.50         0.00          0         93          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.73    0.00    8.49    1.53    9.28   79.98
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         180.00         0.04       106.07         0.00          0        106          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.37    0.00    7.35    0.44    9.78   82.07
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         115.00         0.00        96.79         0.00          0         96          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.63    0.43    6.89   84.99
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         131.00         0.00       130.00         0.00          0        130          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    7.33    1.68    6.27   84.53
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         142.00         0.00       137.50         0.00          0        137          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    7.84    0.87    8.15   83.14
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         151.00         0.00       141.00         0.00          0        141          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    9.19    0.49   10.24   79.95
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         145.00         0.00       131.50         0.00          0        131          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.79    0.00    8.86    1.83   11.48   77.03
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         133.00         0.00       129.50         0.00          0        129          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.49    0.00    9.17    1.85   11.88   76.62
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1          99.00         0.00        98.00         0.00          0         98          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    7.51    0.68    7.45   84.05
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         159.00         0.00       151.00         0.00          0        151          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    8.74    0.69    6.05   84.46
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         186.00         0.00       181.00         0.00          0        181          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.48    0.12    7.98   84.36
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         130.00         0.00       128.50         0.00          0        128          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.68    0.00    9.54    0.55    8.92   80.31
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         154.00         0.00       149.00         0.00          0        149          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    7.61    0.94    6.86   84.54
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         152.00         0.00       150.00         0.00          0        150          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.18    0.00    7.64    0.68    8.82   82.68
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         164.36         0.00       148.51         0.00          0        150          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.43    0.00    9.38    1.90   11.52   76.78
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         125.00         0.00       122.00         0.00          0        122          0
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.96    0.00   10.45    2.20   11.74   73.66
+
+Device             tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd
+nvme0n1         144.00         0.00       139.00         0.00          0        139          0
+
