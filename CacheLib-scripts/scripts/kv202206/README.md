@@ -1,4 +1,4 @@
-#Device Path
+# Device Path
 
 Make sure 
 1. .json config file  ['nvmeXn1']
@@ -6,7 +6,7 @@ Make sure
 3. 5.get_waf.sh WAF file device path 'nvmeXn1'
 4. trim.sh device path 'nvmeXn1'
 
-#To run
+# To run
 prepare  'cachebench' binary to run.
 
 For example
@@ -17,4 +17,13 @@ inho@hds03:~/.../kvcache202401$ ls -lha
 drwxrwxr-x  2 inho inho 4.0K Aug 30 06:51 configs
 drwxrwxr-x  4 inho inho 4.0K Aug 30 07:10 results
 lrwxrwxrwx  1 inho inho   51 Aug 28 05:02 cachebench -> /home/inho/git/CacheLib/opt/cachelib/bin/cachebench
+```
+
+Then
+```
+sudo nohup ./run_fdp4_kvcache_FULL.sh & 
+```
+or plainly,
+```
+sudo ./run_fdp4_kvcache_FULL.sh
 ```

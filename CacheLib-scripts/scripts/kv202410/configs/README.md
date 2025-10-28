@@ -1,5 +1,5 @@
 
-#Trace Path
+# Trace Path
 Note: path for 'traceFileNames' should be located in this directory(scripts dir) 
 for example, 
 ```
@@ -16,7 +16,7 @@ lrwxrwxrwx  1 inho inho       53 Sep 13 05:03 kvcache_traces_1.csv -> /data/inho
   }
 
 
-#Write only
+# Write only
 We can populate only 'SET' in trace to see write amplification only.
 To do this, use 'grep SET' to extract.
 

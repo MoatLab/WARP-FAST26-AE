@@ -1,4 +1,4 @@
-#Device Path
+# Device Path
 
 Make sure 
 1. .json config file  ['nvmeXn1']
@@ -6,7 +6,7 @@ Make sure
 3. 5.get_waf.sh WAF file device path 'nvmeXn1'
 4. trim.sh device path 'nvmeXn1'
 
-#To run
+# To run
 prepare  'cachebench' binary to run.
 
 For example
