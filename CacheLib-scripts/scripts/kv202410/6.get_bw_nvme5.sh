@@ -5,4 +5,5 @@ output_dir="./"
 #mv_dir="/home/inho/git/CacheLib/inho-run-cachelib/samsung-full-noFDP"
 
 date>>${output_dir}/${target_file}
-iostat -d nvme5n1 -h -m 60 >> ${output_dir}/${target_file}
+iostat nvme5n1
+iostat -d nvme5n1 -m 60 -h >> ${output_dir}/${target_file}

@@ -2,7 +2,7 @@
 #mkdir -p ./tmp
 #config_dir="/home/inho/git/CacheLib/cachelib/cachebench"
 #output_dir="/home/inho/git/CacheLib/inho-run-cachelib/tmp"
-config_dir="./scripts/"
+config_dir="./configs/"
 output_dir="./results/"
 #bin_dir="~/git/CacheLib/opt/cachelib/bin/"
 #mv_dir="/home/inho/git/CacheLib/inho-run-cachelib/default/samsung"

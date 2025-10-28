@@ -1,5 +1,5 @@
 #!/bin/bash
-target_file="samsung_waf_1min.txt"
+target_file="nvme5_waf_1min.txt"
 output_dir="./"
 #output_dir="/home/inho/git/CacheLib/inho-run-cachelib"
 #mv_dir="/home/inho/git/CacheLib/inho-run-cachelib/fadu-full-noFDP"
