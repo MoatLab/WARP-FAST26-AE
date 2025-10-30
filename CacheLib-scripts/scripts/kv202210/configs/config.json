@@ -1,0 +1,52 @@
+{
+  "cache_config":
+  {
+    "cacheSizeMB": 10000,
+    "allocFactor": 1.08,
+    "maxAllocSize": 524288,
+    "minAllocSize": 64,
+    "navyReaderThreads": 72,
+    "navyWriterThreads": 36,
+    "nvmCachePaths": ["/dev/nvme4n1"],
+    "nvmCacheSizeMB" : 4026531,
+    "writeAmpDeviceList": ["nvme4n1"],
+    "navyBigHashBucketSize": 4096,
+    "navyBigHashSizePct": 20,
+    "navySmallItemMaxSize": 640,
+    "navySegmentedFifoSegmentRatio": [1.0],
+    "navyHitsReinsertionThreshold": 1,
+    "navyBlockSize": 4096,
+    "nvmAdmissionRetentionTimeThreshold": 7200,
+    "navyParcelMemoryMB": 6048,
+    "enableChainedItem": true,
+    "htBucketPower": 29,
+    "moveOnSlabRelease": false,
+    "poolRebalanceIntervalSec": 2,
+    "poolResizeIntervalSec": 2,
+    "rebalanceStrategy": "hits"
+  },
+  "test_config":
+  {
+    "opRatePerSec": 550000,
+    "opRateBurstSize": 200,
+    "enableLookaside": false,
+    "generator": "replay",
+    "replayGeneratorConfig":
+    {
+        "ampFactor": 100
+    },    
+    "repeatTraceReplay": true,
+    "repeatOpCount" : true,
+    "onlySetIfMiss" : false,
+    "numOps": 10000000000,
+    "numThreads": 10, 
+    "prepopulateCache": true, 
+    "traceFileNames": [
+	    "kvcache_traces_1.csv",
+	    "kvcache_traces_2.csv",
+	    "kvcache_traces_3.csv",
+	    "kvcache_traces_4.csv",
+	    "kvcache_traces_5.csv"
+    ]
+  }
+}
