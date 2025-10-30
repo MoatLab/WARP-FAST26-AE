@@ -1,0 +1,31 @@
+worker0: (g=0): rw=write, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=io_uring_cmd, iodepth=4
+worker1: (g=0): rw=randwrite, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=io_uring_cmd, iodepth=4
+fio-3.36
+Starting 2 processes
+
+worker0: (groupid=0, jobs=2): err= 0: pid=4118505: Sun Mar 16 03:25:50 2025
+  write: IOPS=524k, BW=2048MiB/s (2148MB/s)(43.0TiB/22000001msec); 0 zone resets
+    slat (nsec): min=814, max=9064.0k, avg=1357.80, stdev=522.58
+    clat (nsec): min=137, max=20730k, avg=13586.42, stdev=6824.32
+     lat (usec): min=8, max=20732, avg=14.94, stdev= 6.81
+    clat percentiles (nsec):
+     |  1.00th=[ 8896],  5.00th=[ 9664], 10.00th=[10176], 20.00th=[10944],
+     | 30.00th=[11456], 40.00th=[11968], 50.00th=[12480], 60.00th=[13120],
+     | 70.00th=[13888], 80.00th=[15808], 90.00th=[18304], 95.00th=[18816],
+     | 99.00th=[31360], 99.50th=[36096], 99.90th=[44800], 99.95th=[47360],
+     | 99.99th=[52992]
+   bw (  MiB/s): min= 1103, max= 2606, per=100.00%, avg=2049.26, stdev=169.07, samples=439998
+   iops        : min=282580, max=667400, avg=524610.34, stdev=43280.99, samples=439998
+  lat (nsec)   : 250=0.01%, 500=0.01%, 750=0.01%, 1000=0.01%
+  lat (usec)   : 2=0.01%, 4=0.01%, 10=7.75%, 20=88.49%, 50=3.73%
+  lat (usec)   : 100=0.03%, 250=0.01%, 500=0.01%, 750=0.01%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.01%, 10=0.01%, 20=0.01%, 50=0.01%
+  cpu          : usr=22.02%, sys=46.44%, ctx=4380118501, majf=0, minf=10357
+  IO depths    : 1=0.1%, 2=0.1%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=0,11537059812,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=4
+
+Run status group 0 (all jobs):
+  WRITE: bw=2048MiB/s (2148MB/s), 2048MiB/s-2048MiB/s (2148MB/s-2148MB/s), io=43.0TiB (47.3TB), run=22000001-22000001msec

@@ -1,0 +1,31 @@
+worker0: (g=0): rw=write, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=io_uring_cmd, iodepth=4
+worker1: (g=0): rw=randwrite, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=io_uring_cmd, iodepth=4
+fio-3.36
+Starting 2 processes
+
+worker0: (groupid=0, jobs=2): err= 0: pid=325616: Sun Mar 16 10:12:32 2025
+  write: IOPS=591k, BW=2308MiB/s (2420MB/s)(48.4TiB/22000001msec); 0 zone resets
+    slat (nsec): min=818, max=4055.7k, avg=1378.52, stdev=551.10
+    clat (nsec): min=136, max=24755k, avg=11850.19, stdev=8836.45
+     lat (usec): min=8, max=24756, avg=13.23, stdev= 8.84
+    clat percentiles (nsec):
+     |  1.00th=[ 8768],  5.00th=[ 9408], 10.00th=[ 9792], 20.00th=[10432],
+     | 30.00th=[10944], 40.00th=[11328], 50.00th=[11712], 60.00th=[12096],
+     | 70.00th=[12480], 80.00th=[13120], 90.00th=[14016], 95.00th=[14912],
+     | 99.00th=[16768], 99.50th=[17280], 99.90th=[18816], 99.95th=[19840],
+     | 99.99th=[22144]
+   bw (  MiB/s): min= 1343, max= 2589, per=100.00%, avg=2308.96, stdev=42.01, samples=439998
+   iops        : min=343937, max=662970, avg=591094.16, stdev=10755.52, samples=439998
+  lat (nsec)   : 250=0.01%, 500=0.01%, 750=0.01%, 1000=0.01%
+  lat (usec)   : 2=0.01%, 4=0.01%, 10=12.58%, 20=87.38%, 50=0.04%
+  lat (usec)   : 100=0.01%, 250=0.01%, 500=0.01%, 750=0.01%, 1000=0.01%
+  lat (msec)   : 2=0.01%, 4=0.01%, 10=0.01%, 20=0.01%, 50=0.01%
+  cpu          : usr=24.62%, sys=50.31%, ctx=3916967342, majf=0, minf=10351
+  IO depths    : 1=0.1%, 2=0.1%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=0,12999632002,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=4
+
+Run status group 0 (all jobs):
+  WRITE: bw=2308MiB/s (2420MB/s), 2308MiB/s-2308MiB/s (2420MB/s-2420MB/s), io=48.4TiB (53.2TB), run=22000001-22000001msec
