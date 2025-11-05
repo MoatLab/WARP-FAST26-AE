@@ -4,6 +4,10 @@ These are the scripts that I used for both FDP SSD and WARP(proj old name Cylon-
 
 Experiments are three-fold. FIO. CacheLib. and F2FS.
 
+## FDP SSD setup (nvme cli)
+```
+sudo ./fdp_setup_nvme-cli.sh /dev/nvmeX
+```
 
 # Dependency 
 ## libnvme
