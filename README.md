@@ -45,6 +45,6 @@ Using 6.2.14
 
 Also tested with
 v6.5.6
-v6.10.x (especially F2FS)
+v6.10.x (especially F2FS, 6.10.x)
 
 
