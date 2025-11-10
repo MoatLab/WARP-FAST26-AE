@@ -15,7 +15,7 @@ workload_dir=("fdp" )
 
 #superworkload_dir=( "zipf_2.2" "zipf_1.2" "zoned" )
 superworkload_dir=("zipf_1.2")
-orkload_file=("py_randwritefiles_bs4K_QD4_fdp")
+workload_file=("py_randwritefiles_bs4K_QD4_fdp")
 #echo  "grep -rn rw=randwrite"
 #grep -rn "rw=randwrite"
 
