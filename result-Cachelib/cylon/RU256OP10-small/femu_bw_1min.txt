@@ -1,0 +1,2038 @@
+Wed Sep 10 10:03:29 PM UTC 2025
+Linux 6.2.14 (inhoinnofemu) 	09/10/2025 	_x86_64_	(4 CPU)
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+     0.00         0.0k         0.0k         0.0k       4.2M       0.0k       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+  4591.82         9.0M         9.0M         0.0k     538.1M     538.1M       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 35100.82        68.6M        68.6M         0.0k       4.0G       4.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 26357.95        51.5M        51.5M         0.0k       3.0G       3.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20478.27        40.0M        40.0M         0.0k       2.3G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16462.18        32.2M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15568.28        30.4M        30.4M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 13902.53        27.2M        27.2M         0.0k       1.6G       1.6G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15459.35        30.2M        30.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16676.95        32.6M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16180.90        31.6M        31.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14921.15        29.1M        29.1M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16521.78        32.3M        32.3M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14418.40        28.2M        28.2M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14557.00        28.4M        28.4M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17671.97        34.5M        34.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15832.12        30.9M        30.9M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18151.23        35.5M        35.4M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16962.47        33.1M        33.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15526.32        30.3M        30.3M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15525.30        30.3M        30.3M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15848.87        31.0M        31.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15192.42        29.7M        29.7M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14985.00        29.3M        29.3M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16524.52        32.3M        32.3M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17270.00        33.7M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16513.42        32.3M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16745.93        32.7M        32.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16609.28        32.4M        32.4M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14580.52        28.5M        28.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15989.72        31.2M        31.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15631.22        30.5M        30.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16178.90        31.6M        31.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15081.65        29.5M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14933.65        29.2M        29.2M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16522.30        32.3M        32.3M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14365.03        28.1M        28.0M         0.0k       1.6G       1.6G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16105.72        31.5M        31.4M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14822.13        29.0M        28.9M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18218.95        35.6M        35.6M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16409.52        32.1M        32.0M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15926.30        31.1M        31.1M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15831.43        30.9M        30.9M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16129.07        31.5M        31.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15121.10        29.5M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17477.68        34.1M        34.1M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16624.43        32.5M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16395.05        32.0M        32.0M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17811.18        34.8M        34.8M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16722.65        32.7M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16062.25        31.4M        31.4M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16505.18        32.2M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17062.98        33.3M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18085.22        35.3M        35.3M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17335.77        33.9M        33.8M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16186.40        31.6M        31.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16275.88        31.8M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16458.82        32.2M        32.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17276.73        33.8M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17762.80        34.7M        34.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15106.28        29.5M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17555.68        34.3M        34.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15236.88        29.8M        29.7M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16539.35        32.3M        32.3M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14890.65        29.1M        29.1M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16061.33        31.4M        31.3M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17157.48        33.5M        33.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14669.32        28.7M        28.6M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15840.12        31.0M        30.9M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16635.28        32.5M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16764.47        32.8M        32.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17378.22        34.0M        33.9M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14997.67        29.3M        29.3M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15757.50        30.8M        30.8M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18177.75        35.5M        35.5M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16287.62        31.8M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14755.80        28.8M        28.8M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14880.18        29.1M        29.0M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17314.37        33.8M        33.8M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16285.57        31.8M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15714.82        30.7M        30.7M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16628.85        32.5M        32.4M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15637.90        30.6M        30.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16159.70        31.6M        31.5M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16616.68        32.5M        32.4M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18042.02        35.3M        35.2M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16328.50        31.9M        31.9M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15380.23        30.1M        30.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15122.67        29.6M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15157.12        29.6M        29.6M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15531.53        30.4M        30.3M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14896.90        29.1M        29.1M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16139.82        31.6M        31.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16130.70        31.5M        31.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16029.05        31.3M        31.3M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16637.80        32.5M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17305.87        33.8M        33.8M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17482.25        34.2M        34.1M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16996.63        33.2M        33.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17906.23        35.0M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17112.47        33.5M        33.4M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20219.38        39.5M        39.4M         0.0k       2.3G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17607.40        34.4M        34.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15747.22        30.8M        30.7M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15683.55        30.7M        30.6M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15259.03        29.8M        29.8M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15828.93        31.0M        30.9M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15875.00        31.1M        31.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17927.15        35.1M        35.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17058.27        33.4M        33.3M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17174.73        33.6M        33.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17215.67        33.7M        33.6M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17618.52        34.5M        34.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16282.97        31.9M        31.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15475.57        30.3M        30.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15395.17        30.1M        30.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17115.05        33.5M        33.4M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17147.72        33.6M        33.4M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17474.52        34.2M        34.1M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16164.13        31.6M        31.5M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14404.72        28.2M        28.1M         0.0k       1.7G       1.6G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16132.10        31.6M        31.4M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15932.83        31.2M        31.1M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17461.38        34.2M        34.0M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16279.63        31.9M        31.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15183.80        29.7M        29.6M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16677.37        32.7M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15416.23        30.2M        30.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17466.42        34.2M        34.0M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16381.18        32.1M        31.9M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16889.45        33.1M        32.9M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16868.72        33.0M        32.9M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15254.00        29.9M        29.7M         0.0k       1.8G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15319.03        30.0M        29.8M         0.0k       1.8G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17729.48        34.7M        34.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17289.63        33.9M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17732.77        34.7M        34.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17537.23        34.3M        34.2M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15810.43        31.0M        30.8M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16626.52        32.6M        32.4M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16119.82        31.6M        31.4M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15526.53        30.4M        30.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15543.48        30.4M        30.3M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16724.58        32.8M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16745.30        32.8M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15376.77        30.1M        29.9M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17066.80        33.4M        33.2M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18271.92        35.8M        35.6M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16483.23        32.3M        32.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16590.53        32.5M        32.3M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16942.25        33.2M        33.0M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15948.68        31.3M        31.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15277.45        30.0M        29.7M         0.0k       1.8G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14189.75        27.8M        27.6M         0.0k       1.6G       1.6G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16318.88        32.0M        31.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17372.20        34.1M        33.8M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14805.58        29.0M        28.8M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16440.28        32.2M        32.0M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14516.77        28.5M        28.2M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15163.42        29.7M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15617.27        30.6M        30.4M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17057.22        33.5M        33.2M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15796.90        31.0M        30.7M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16637.13        32.6M        32.4M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16137.60        31.7M        31.4M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15720.42        30.8M        30.6M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15186.35        29.8M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15969.25        31.3M        31.1M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16776.77        32.9M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17122.52        33.6M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16353.63        32.1M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16029.35        31.5M        31.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17019.60        33.4M        33.1M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17336.65        34.0M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16038.52        31.5M        31.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15932.00        31.3M        31.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16742.87        32.9M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15544.27        30.5M        30.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15880.98        31.2M        30.9M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15637.32        30.7M        30.4M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15797.67        31.0M        30.7M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15438.00        30.3M        30.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16108.38        31.6M        31.3M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16172.58        31.8M        31.4M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15697.62        30.8M        30.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18053.98        35.5M        35.1M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16761.58        32.9M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18983.05        37.3M        36.9M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15153.80        29.8M        29.4M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15191.92        29.8M        29.5M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17490.37        34.4M        34.0M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15865.93        31.2M        30.8M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16476.30        32.4M        32.0M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18621.40        36.6M        36.2M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18346.92        36.0M        35.6M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16522.50        32.4M        32.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16816.12        33.0M        32.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17969.83        35.3M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17677.33        34.7M        34.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16264.57        32.0M        31.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16393.10        32.2M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16371.22        32.2M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 14934.90        29.4M        29.0M         0.0k       1.7G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17609.95        34.6M        34.2M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16056.73        31.6M        31.2M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17576.65        34.6M        34.1M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16756.90        32.9M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16146.13        31.7M        31.3M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17254.55        33.9M        33.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17156.93        33.7M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15785.52        31.0M        30.6M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16472.80        32.4M        31.9M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17830.75        35.1M        34.6M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16376.40        32.2M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16974.27        33.4M        32.9M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16917.35        33.3M        32.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16060.95        31.6M        31.1M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16569.53        32.6M        32.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18690.23        36.8M        36.2M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19901.87        39.2M        38.6M         0.0k       2.3G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16471.87        32.4M        31.9M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16009.60        31.5M        31.0M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16427.44        32.3M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18297.10        36.0M        35.5M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18687.53        36.8M        36.2M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16716.78        32.9M        32.4M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18702.85        36.8M        36.2M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18020.88        35.5M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15385.32        30.3M        29.8M         0.0k       1.8G       1.7G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15842.77        31.2M        30.7M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17951.08        35.4M        34.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17260.78        34.0M        33.4M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16591.78        32.7M        32.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15921.67        31.4M        30.8M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16969.81        33.4M        32.9M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17423.05        34.3M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16961.83        33.4M        32.8M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17776.75        35.0M        34.4M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17395.27        34.3M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17223.85        33.9M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17784.52        35.0M        34.4M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16640.38        32.8M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18079.83        35.6M        35.0M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16624.62        32.8M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15851.62        31.2M        30.7M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15740.35        31.0M        30.5M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16306.70        32.1M        31.5M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19786.72        39.0M        38.3M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18589.83        36.6M        36.0M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18880.38        37.2M        36.5M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19530.90        38.5M        37.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17631.37        34.8M        34.1M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16919.37        33.4M        32.7M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17194.25        33.9M        33.3M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18789.13        37.1M        36.3M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17063.60        33.7M        33.0M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20784.30        41.0M        40.2M         0.0k       2.4G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17929.92        35.4M        34.7M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16987.60        33.5M        32.8M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17621.43        34.8M        34.1M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18138.57        35.8M        35.1M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19198.92        37.9M        37.1M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18414.57        36.4M        35.6M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17328.67        34.2M        33.5M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16861.08        33.3M        32.6M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17116.35        33.8M        33.1M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18333.10        36.2M        35.4M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17702.25        35.0M        34.2M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16030.93        31.7M        31.0M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17791.72        35.1M        34.4M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17398.28        34.4M        33.6M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16165.38        31.9M        31.2M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18024.27        35.6M        34.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17437.78        34.5M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16823.97        33.2M        32.5M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20039.32        39.6M        38.7M         0.0k       2.3G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17131.70        33.8M        33.1M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18415.15        36.4M        35.6M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17747.72        35.1M        34.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16423.57        32.4M        31.7M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17383.02        34.3M        33.6M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17458.03        34.5M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19212.62        38.0M        37.1M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19583.25        38.7M        37.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16284.38        32.2M        31.4M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16638.48        32.9M        32.1M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17218.28        34.0M        33.2M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17724.37        35.0M        34.2M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19311.20        38.2M        37.2M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17192.15        34.0M        33.2M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18994.98        37.6M        36.6M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18547.40        36.7M        35.8M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20308.18        40.2M        39.2M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17535.20        34.7M        33.8M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16901.73        33.4M        32.6M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17630.55        34.9M        34.0M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18737.73        37.1M        36.1M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19144.33        37.9M        36.9M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18024.63        35.7M        34.7M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17651.67        34.9M        34.0M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18210.30        36.1M        35.1M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18451.02        36.5M        35.5M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19221.23        38.1M        37.0M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16836.28        33.4M        32.4M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18042.52        35.7M        34.7M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19050.87        37.7M        36.7M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19334.30        38.3M        37.2M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20044.23        39.7M        38.6M         0.0k       2.3G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19246.02        38.1M        37.1M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18138.80        35.9M        35.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20234.12        40.0M        39.0M         0.0k       2.3G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19537.78        38.7M        37.7M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17282.68        34.2M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19717.75        39.0M        38.0M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17831.23        35.3M        34.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18154.05        36.0M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18699.65        37.1M        36.0M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16724.35        33.1M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17029.22        33.7M        32.8M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18363.93        36.4M        35.3M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16736.87        33.2M        32.2M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16257.65        32.2M        31.3M         0.0k       1.9G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16963.09        33.7M        32.6M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19071.95        37.8M        36.7M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16958.83        33.6M        32.6M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19745.85        39.2M        38.0M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18660.35        37.0M        35.9M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18390.72        36.5M        35.3M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18341.67        36.4M        35.2M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17784.83        35.3M        34.2M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18961.77        37.6M        36.4M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16536.85        32.8M        31.8M         0.0k       1.9G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19256.78        38.2M        37.0M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17990.37        35.7M        34.6M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18221.85        36.2M        35.0M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19082.38        37.9M        36.7M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19034.43        37.8M        36.6M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16866.05        33.5M        32.4M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18373.20        36.5M        35.3M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17202.82        34.2M        33.0M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17651.07        35.1M        33.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17985.45        35.7M        34.5M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20811.57        41.4M        39.9M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17505.62        34.8M        33.6M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18478.95        36.7M        35.5M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16931.08        33.6M        32.5M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17561.93        34.9M        33.7M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18297.93        36.4M        35.1M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18548.58        36.9M        35.6M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19510.27        38.8M        37.4M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19538.25        38.9M        37.4M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17743.33        35.3M        34.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 15714.18        31.3M        30.1M         0.0k       1.8G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18266.35        36.4M        35.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18162.82        36.2M        34.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17975.10        35.8M        34.4M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19064.78        37.9M        36.5M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19712.45        39.2M        37.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21616.05        43.0M        41.5M         0.0k       2.5G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19595.55        38.9M        37.6M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21326.35        42.4M        40.9M         0.0k       2.5G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21423.22        42.6M        41.1M         0.0k       2.5G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19019.62        37.8M        36.5M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19323.38        38.4M        37.1M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18283.30        36.4M        35.1M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19665.40        39.1M        37.7M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18942.67        37.7M        36.3M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19584.53        39.0M        37.5M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17554.25        34.9M        33.6M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19228.95        38.3M        36.8M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21890.80        43.6M        41.9M         0.0k       2.6G       2.5G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21694.62        43.2M        41.6M         0.0k       2.5G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19867.82        39.6M        38.1M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18291.02        36.4M        35.0M         0.0k       2.1G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18260.88        36.4M        35.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17186.63        34.2M        32.9M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20400.67        40.6M        39.0M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17131.93        34.1M        32.8M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18942.73        37.7M        36.3M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21387.60        42.6M        40.9M         0.0k       2.5G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20703.00        41.3M        39.6M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19722.83        39.3M        37.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19231.03        38.3M        36.8M         0.0k       2.2G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18224.83        36.3M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17415.57        34.7M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18293.50        36.5M        35.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19050.20        38.0M        36.4M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19168.62        38.2M        36.7M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20900.33        41.7M        39.9M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19255.38        38.4M        36.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18041.57        36.0M        34.5M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18535.07        37.0M        35.4M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19151.48        38.2M        36.6M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20324.83        40.6M        38.8M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20188.52        40.3M        38.6M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17715.42        35.4M        33.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19746.07        39.4M        37.7M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17658.65        35.3M        33.7M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17495.97        35.0M        33.4M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17568.32        35.1M        33.5M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18308.92        36.6M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20528.09        41.0M        39.2M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 21254.28        42.4M        40.6M         0.0k       2.5G       2.4G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20218.43        40.4M        38.6M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17305.20        34.6M        33.0M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18849.95        37.7M        36.0M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20507.28        41.0M        39.1M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18307.90        36.6M        34.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17105.13        34.2M        32.6M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17993.13        36.0M        34.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19053.53        38.1M        36.3M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18406.58        36.8M        35.1M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20266.97        40.5M        38.6M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19120.88        38.2M        36.5M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18979.58        38.0M        36.2M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16914.42        33.8M        32.2M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17480.00        35.0M        33.3M         0.0k       2.0G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19040.92        38.1M        36.3M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18616.42        37.2M        35.5M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18559.52        37.1M        35.4M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17619.08        35.3M        33.6M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20025.82        40.1M        38.2M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20198.97        40.4M        38.5M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20418.70        40.9M        38.9M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19313.53        38.6M        36.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 22044.63        44.1M        42.0M         0.0k       2.6G       2.5G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20117.30        40.2M        38.3M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18036.28        36.1M        34.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17957.93        36.0M        34.2M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18222.50        36.5M        34.7M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18263.02        36.6M        34.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19575.93        39.2M        37.3M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18970.07        38.0M        36.1M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19873.12        39.8M        37.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19872.40        39.9M        37.8M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20230.05        40.6M        38.4M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18020.98        36.1M        34.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18760.00        37.6M        35.7M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17712.73        35.5M        33.7M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17825.18        35.7M        33.9M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18127.13        36.4M        34.4M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19762.53        39.6M        37.6M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18225.30        36.6M        34.6M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18998.52        38.1M        36.1M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18578.73        37.3M        35.3M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19461.65        39.1M        36.9M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16915.88        34.0M        32.1M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17147.08        34.5M        32.5M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18407.20        37.0M        34.9M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17849.93        35.9M        33.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20253.40        40.7M        38.4M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19764.98        39.7M        37.5M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19882.02        39.9M        37.7M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18846.03        37.9M        35.8M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18400.25        36.9M        34.9M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19090.23        38.4M        36.2M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18673.90        37.5M        35.4M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18754.33        37.7M        35.6M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20905.60        42.0M        39.7M         0.0k       2.5G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18178.20        36.5M        34.5M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18404.25        37.0M        34.9M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18896.35        37.9M        35.9M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20614.23        41.4M        39.1M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20686.67        41.6M        39.2M         0.0k       2.4G       2.3G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18340.93        36.9M        34.8M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19245.03        38.7M        36.5M         0.0k       2.3G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17161.48        34.5M        32.5M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18064.80        36.3M        34.2M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19859.85        40.0M        37.6M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17538.30        35.3M        33.2M         0.0k       2.1G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18025.01        36.3M        34.2M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19888.61        40.0M        37.7M         0.0k       2.3G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19305.20        38.8M        36.6M         0.0k       2.3G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19215.73        38.7M        36.4M         0.0k       2.3G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19942.78        40.1M        37.8M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16915.36        34.0M        32.0M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18589.07        37.4M        35.2M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18266.27        36.8M        34.6M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20037.52        40.3M        37.9M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17631.05        35.5M        33.4M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20234.83        40.8M        38.3M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17981.67        36.2M        34.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20064.22        40.4M        38.0M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18095.55        36.4M        34.2M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17615.88        35.5M        33.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17873.82        36.0M        33.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17878.67        36.0M        33.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20088.47        40.5M        38.0M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18929.90        38.1M        35.8M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20150.00        40.6M        38.1M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17620.18        35.5M        33.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17958.18        36.2M        34.0M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17535.83        35.4M        33.1M         0.0k       2.1G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17319.10        34.9M        32.7M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18164.80        36.7M        34.3M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 16558.68        33.4M        31.3M         0.0k       2.0G       1.8G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18189.13        36.7M        34.3M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17892.42        36.1M        33.8M         0.0k       2.1G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18877.07        38.1M        35.6M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20313.28        41.0M        38.4M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17012.90        34.3M        32.1M         0.0k       2.0G       1.9G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 19011.78        38.3M        35.9M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20303.57        41.0M        38.3M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18394.68        37.1M        34.7M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 20300.72        41.0M        38.3M         0.0k       2.4G       2.2G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18968.20        38.3M        35.8M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18900.03        38.2M        35.7M         0.0k       2.2G       2.1G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 18244.37        36.9M        34.4M         0.0k       2.2G       2.0G       0.0k nvme0n1
+
+
+      tps    MB_read/s    MB_wrtn/s    MB_dscd/s    MB_read    MB_wrtn    MB_dscd Device
+ 17750.57        35.9M        33.5M         0.0k       2.1G       2.0G       0.0k nvme0n1
+

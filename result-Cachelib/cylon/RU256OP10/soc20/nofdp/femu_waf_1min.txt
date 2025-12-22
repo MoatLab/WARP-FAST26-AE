@@ -1,0 +1,744 @@
+Tue Jul 22 07:56:31 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 12,102,955,008
+Media Bytes with Metadata Written (MBMW): 12,102,955,008
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 12105568256 12105568256 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 07:57:31 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 33,621,598,208
+Media Bytes with Metadata Written (MBMW): 33,621,598,208
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 33624461312 33624461312 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 07:58:31 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 55,454,986,240
+Media Bytes with Metadata Written (MBMW): 55,454,986,240
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 55458107392 55458107392 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 07:59:31 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 76,944,117,760
+Media Bytes with Metadata Written (MBMW): 76,944,117,760
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 76947873792 76947873792 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:00:31 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 97,649,520,640
+Media Bytes with Metadata Written (MBMW): 97,649,520,640
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 97660592128 97660592128 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:01:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 118,016,299,008
+Media Bytes with Metadata Written (MBMW): 118,016,299,008
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 118021959680 118021959680 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:02:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 139,214,295,040
+Media Bytes with Metadata Written (MBMW): 139,214,295,040
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 139219382272 139219382272 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:03:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 160,337,723,392
+Media Bytes with Metadata Written (MBMW): 160,337,723,392
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 160357027840 160357027840 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:04:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 181,503,803,392
+Media Bytes with Metadata Written (MBMW): 181,503,803,392
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 181507969024 181507969024 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:05:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 201,602,002,944
+Media Bytes with Metadata Written (MBMW): 201,602,002,944
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 201604132864 201604132864 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:06:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 221,592,883,200
+Media Bytes with Metadata Written (MBMW): 221,592,883,200
+Media Bytes Erased (MBE): 0
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 221597507584 221597507584 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:07:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 242,239,893,504
+Media Bytes with Metadata Written (MBMW): 242,247,806,976
+Media Bytes Erased (MBE): 268,435,456
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 242243211264 242251124736 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:08:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 262,701,072,384
+Media Bytes with Metadata Written (MBMW): 263,155,384,320
+Media Bytes Erased (MBE): 3,489,660,928
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 262706188288 263160500224 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:09:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 282,968,186,880
+Media Bytes with Metadata Written (MBMW): 288,133,988,352
+Media Bytes Erased (MBE): 28,722,593,792
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 282971344896 288137146368 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:10:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 302,955,364,352
+Media Bytes with Metadata Written (MBMW): 313,141,538,816
+Media Bytes Erased (MBE): 53,418,655,744
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 302959980544 313146155008 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:11:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 323,405,340,672
+Media Bytes with Metadata Written (MBMW): 338,872,602,624
+Media Bytes Erased (MBE): 79,188,459,520
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 323410399232 338877661184 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:12:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 344,005,353,472
+Media Bytes with Metadata Written (MBMW): 364,853,743,616
+Media Bytes Erased (MBE): 105,226,698,752
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 344009494528 364857884672 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:13:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 364,276,113,408
+Media Bytes with Metadata Written (MBMW): 390,459,518,976
+Media Bytes Erased (MBE): 130,996,502,528
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 364280807424 390464212992 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:14:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 383,984,287,744
+Media Bytes with Metadata Written (MBMW): 415,308,881,920
+Media Bytes Erased (MBE): 155,692,564,480
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 383989428224 415314022400 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:15:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 403,933,315,072
+Media Bytes with Metadata Written (MBMW): 440,555,827,200
+Media Bytes Erased (MBE): 180,925,497,344
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 403936890880 440559403008 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:16:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 424,146,669,568
+Media Bytes with Metadata Written (MBMW): 466,213,945,344
+Media Bytes Erased (MBE): 206,695,301,120
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 424151281664 466218557440 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:17:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 443,625,283,584
+Media Bytes with Metadata Written (MBMW): 490,994,876,416
+Media Bytes Erased (MBE): 231,391,363,072
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 443628027904 490997620736 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:18:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 463,210,704,896
+Media Bytes with Metadata Written (MBMW): 515,995,791,360
+Media Bytes Erased (MBE): 256,355,860,480
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 463213912064 515998998528 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:19:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 483,325,259,776
+Media Bytes with Metadata Written (MBMW): 541,749,547,008
+Media Bytes Erased (MBE): 282,125,664,256
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 483329212416 541753499648 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:20:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 503,586,705,408
+Media Bytes with Metadata Written (MBMW): 567,725,101,056
+Media Bytes Erased (MBE): 308,163,903,488
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 503592067072 567730462720 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:21:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 523,866,083,328
+Media Bytes with Metadata Written (MBMW): 593,805,254,656
+Media Bytes Erased (MBE): 334,202,142,720
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 523868491776 593807663104 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:22:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 543,657,811,968
+Media Bytes with Metadata Written (MBMW): 619,440,082,944
+Media Bytes Erased (MBE): 359,971,946,496
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 543661129728 619443400704 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:23:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 563,517,841,408
+Media Bytes with Metadata Written (MBMW): 645,239,762,944
+Media Bytes Erased (MBE): 385,741,750,272
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 563522469888 645244391424 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:24:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 583,422,926,848
+Media Bytes with Metadata Written (MBMW): 671,186,231,296
+Media Bytes Erased (MBE): 411,511,554,048
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 583427395584 671190700032 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:25:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 602,672,762,880
+Media Bytes with Metadata Written (MBMW): 696,563,654,656
+Media Bytes Erased (MBE): 437,012,922,368
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 602677133312 696568025088 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:26:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 622,044,930,048
+Media Bytes with Metadata Written (MBMW): 722,258,214,912
+Media Bytes Erased (MBE): 462,782,726,144
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 622049087488 722262372352 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:27:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 641,523,376,128
+Media Bytes with Metadata Written (MBMW): 748,078,317,568
+Media Bytes Erased (MBE): 488,284,094,464
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 641528000512 748082941952 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:28:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 660,624,015,360
+Media Bytes with Metadata Written (MBMW): 773,617,426,432
+Media Bytes Erased (MBE): 514,053,898,240
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 660626677760 773620088832 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:29:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 679,528,402,944
+Media Bytes with Metadata Written (MBMW): 798,853,566,464
+Media Bytes Erased (MBE): 539,286,831,104
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 679530278912 798855442432 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:30:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 698,263,072,768
+Media Bytes with Metadata Written (MBMW): 824,112,615,424
+Media Bytes Erased (MBE): 564,519,763,968
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 698265280512 824114823168 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:31:32 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 716,572,565,504
+Media Bytes with Metadata Written (MBMW): 849,142,636,544
+Media Bytes Erased (MBE): 589,484,261,376
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 716576907264 849146978304 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:32:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 735,246,733,312
+Media Bytes with Metadata Written (MBMW): 874,911,928,320
+Media Bytes Erased (MBE): 615,522,500,608
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 735251795968 874916990976 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:33:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 754,273,435,648
+Media Bytes with Metadata Written (MBMW): 901,323,780,096
+Media Bytes Erased (MBE): 641,560,739,840
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 754275827712 901326172160 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:34:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 772,276,043,776
+Media Bytes with Metadata Written (MBMW): 927,079,813,120
+Media Bytes Erased (MBE): 667,330,543,616
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 772285542400 927089311744 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:35:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 791,303,004,160
+Media Bytes with Metadata Written (MBMW): 954,704,822,272
+Media Bytes Erased (MBE): 694,979,395,584
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 791307886592 954709704704 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:36:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 810,000,187,392
+Media Bytes with Metadata Written (MBMW): 982,319,230,976
+Media Bytes Erased (MBE): 722,628,247,552
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 810002337792 982321381376 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:37:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 828,057,694,208
+Media Bytes with Metadata Written (MBMW): 1,010,015,498,240
+Media Bytes Erased (MBE): 750,277,099,520
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 828063649792 1010021453824 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:38:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 846,011,908,096
+Media Bytes with Metadata Written (MBMW): 1,039,219,302,400
+Media Bytes Erased (MBE): 779,536,564,224
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 846016360448 1039223754752 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:39:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 863,924,441,088
+Media Bytes with Metadata Written (MBMW): 1,070,826,057,728
+Media Bytes Erased (MBE): 811,211,948,032
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 863944536064 1070846152704 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:40:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 881,983,283,200
+Media Bytes with Metadata Written (MBMW): 1,107,648,249,856
+Media Bytes Erased (MBE): 847,987,605,504
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 881988517888 1107653484544 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:41:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 899,686,703,104
+Media Bytes with Metadata Written (MBMW): 1,149,538,611,200
+Media Bytes Erased (MBE): 889,863,536,640
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 899690680320 1149542588416 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:42:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 917,567,119,360
+Media Bytes with Metadata Written (MBMW): 1,193,727,205,376
+Media Bytes Erased (MBE): 934,155,386,880
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 917572558848 1193732644864 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:43:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 935,542,013,952
+Media Bytes with Metadata Written (MBMW): 1,236,964,405,248
+Media Bytes Erased (MBE): 977,373,495,296
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 935546843136 1236969234432 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:44:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 952,306,925,568
+Media Bytes with Metadata Written (MBMW): 1,277,835,665,408
+Media Bytes Erased (MBE): 1,018,175,684,608
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 952311226368 1277839966208 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:45:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 969,456,340,992
+Media Bytes with Metadata Written (MBMW): 1,322,934,120,448
+Media Bytes Erased (MBE): 1,063,272,841,216
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 969460707328 1322938486784 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:46:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 986,267,770,880
+Media Bytes with Metadata Written (MBMW): 1,370,314,706,944
+Media Bytes Erased (MBE): 1,110,785,916,928
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 986272505856 1370319441920 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:47:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,003,467,661,312
+Media Bytes with Metadata Written (MBMW): 1,420,047,540,224
+Media Bytes Erased (MBE): 1,160,446,476,288
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1003471974400 1420051853312 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:48:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,020,643,926,016
+Media Bytes with Metadata Written (MBMW): 1,471,816,937,472
+Media Bytes Erased (MBE): 1,212,254,519,296
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1020648919040 1471821930496 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:49:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,037,275,774,976
+Media Bytes with Metadata Written (MBMW): 1,524,453,330,944
+Media Bytes Erased (MBE): 1,264,867,868,672
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1037278154752 1524455710720 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:50:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,054,230,532,096
+Media Bytes with Metadata Written (MBMW): 1,580,849,168,384
+Media Bytes Erased (MBE): 1,321,239,314,432
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1054235045888 1580853682176 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:51:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,070,945,730,560
+Media Bytes with Metadata Written (MBMW): 1,638,911,270,912
+Media Bytes Erased (MBE): 1,379,221,372,928
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1070947143680 1638912684032 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:52:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,087,447,822,336
+Media Bytes with Metadata Written (MBMW): 1,699,471,306,752
+Media Bytes Erased (MBE): 1,439,887,785,984
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1087450968064 1699474452480 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:53:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,104,102,121,472
+Media Bytes with Metadata Written (MBMW): 1,763,631,001,600
+Media Bytes Erased (MBE): 1,504,043,859,968
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1104106455040 1763635335168 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:54:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,121,172,283,392
+Media Bytes with Metadata Written (MBMW): 1,831,967,150,080
+Media Bytes Erased (MBE): 1,572,226,465,792
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1121175982080 1831970848768 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:55:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,137,606,426,624
+Media Bytes with Metadata Written (MBMW): 1,902,095,441,920
+Media Bytes Erased (MBE): 1,642,288,119,808
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1137608183808 1902097199104 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:56:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,153,443,930,112
+Media Bytes with Metadata Written (MBMW): 1,973,481,844,736
+Media Bytes Erased (MBE): 1,713,691,951,104
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1153447313408 1973485228032 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
+Tue Jul 22 08:57:33 PM UTC 2025
+Host Bytes with Metadata Written (HBMW): 1,169,390,956,544
+Media Bytes with Metadata Written (MBMW): 2,049,313,050,624
+Media Bytes Erased (MBE): 1,789,659,185,152
+Reclaim Unit Handle 0 Attributes: 0x1 (Host Specified) 1169394405376 2049316499456 
+Reclaim Unit Handle 1 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 2 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 3 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 4 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 5 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 6 Attributes: 0x1 (Host Specified) 0 0 
+Reclaim Unit Handle 7 Attributes: 0x1 (Host Specified) 0 0 
