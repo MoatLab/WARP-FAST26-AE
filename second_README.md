@@ -12,4 +12,22 @@
  
 ## Phase 2: experiment run 
 
+- To generate Figure 11, run "./run_fdp_WARP4.sh". experiment will take 36 hours
+- To generate Figure 13 and 16, run "./run_fdp_WARP_A.sh" in VM A. experiment will take 10 hours
+- To generate Figure 15, run "./run_fdp_WARP_B.sh" in VM B. experiment will take (???) hours
+- To generate Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
+- For Figure 17 and 18, run following four commands and each command will take 4 hours
+- "./run_fdp_WARP256II10.sh"
+- "./run_fdp_WARP256PI10.sh"
+- "./run_fdp_WARP256II7.sh"
+- "./run_fdp_WARP256P17.sh"
+
+
+
+
+
+
 ## Phase 3: Generate figures
+
+- Once you have run all the experiments, go into the WARP repo directory that you cloned in the beginning and run <python3 -m notebook> and click on the jupyter notebook WARP-AE-FAST26-1.ipynb
+- Start running all cells one by one
