@@ -142,7 +142,7 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
    * launch fig11.ipynb and reproduce. Check whether the script captures the result file from ['No such file/dir'] to [Check!]
 
 ------
-TBD
+TBD from here
 #### Fig 13 and 16
 - Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. `nvmeX_waf_1sec.txt` file is for fig13. `log` file in build-femu dir is for Fig16. Experiment will take 10 hours.
 
