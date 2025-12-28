@@ -105,10 +105,10 @@ In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to lau
 - Figure 15, run "./run_fdp_WARP_B.sh", ssh to VM, and run `run-fig15.sh`. Experiment will take (???) hours
 - Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
 - For Figure 17 and 18, run the following four commands. Each command will take 4 hours.
-- `./run_fdp_WARP256II10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-- `./run_fdp_WARP256PI10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-- `./run_fdp_WARP256II7.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-- `./run_fdp_WARP256P17.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+  * `./run_fdp_WARP256II10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+  * `./run_fdp_WARP256PI10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+  * `./run_fdp_WARP256II7.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+  * `./run_fdp_WARP256P17.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
 
 
 ### Fig 11
