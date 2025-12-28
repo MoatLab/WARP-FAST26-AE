@@ -75,9 +75,9 @@ TBD
 ## Phase 1: infrastructure setup
 
 - Hardware and environment: a KVM-enabled x86_64 server with Linux 6.2.14 or 6.5.6.
-- DRAM requirement: 500 GB DRAM
+- DRAM requirement: 500GB+ DRAM (Over 500GB enabled to run 2VMs at the same time(224G*2))
 - VM preparation: clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and pull the image with <command>. Then, move into <director> and run <./run_fdp_RU256.sh> to start the qemu VM
-- Then connect to VM using this ssh <ssh -P 180880 warp@localhost>
+- Then connect to VM using this ssh <ssh -P 18080 warp@localhost>
 - This process will consume about 1 hour, and most of the time will be spent pulling the image.
  
 ## Phase 2: experiment run 
@@ -100,16 +100,15 @@ In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to lau
 <img width="1920" height="1080" alt="image (3)" src="https://github.com/user-attachments/assets/6ced7a0f-92da-4361-bee9-e98e857778dd" />
 <img width="1920" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/524dfa89-b898-4850-893b-146556f34a58" />
 
-- To generat
-e Figure 11, run "./run_fdp_WARP4.sh". experiment will take 36 hours
-- To generate Figure 13 and 16, run "./run_fdp_WARP_A.sh" in VM A. experiment will take 10 hours
-- To generate Figure 15, run "./run_fdp_WARP_B.sh" in VM B. experiment will take (???) hours
-- To generate Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
-- For Figure 17 and 18, run following four commands and each command will take 4 hours
-- "./run_fdp_WARP256II10.sh"
-- "./run_fdp_WARP256PI10.sh"
-- "./run_fdp_WARP256II7.sh"
-- "./run_fdp_WARP256P17.sh"
+- Figure 11, run `./run_fdp_WARP4.sh`, ssh to VM, and `run-fig11.sh`. Experiment will take 36 hours.
+- Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. Experiment will take 10 hours. `.txt` file for fig13, `log` for Fig16.
+- Figure 15, run "./run_fdp_WARP_B.sh", ssh to VM, and run `run-fig15.sh`. Experiment will take (???) hours
+- Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
+- For Figure 17 and 18, run the following four commands. Each command will take 4 hours.
+- `./run_fdp_WARP256II10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+- `./run_fdp_WARP256PI10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+- `./run_fdp_WARP256II7.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
+- `./run_fdp_WARP256P17.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
 
 
 ### Fig 11
