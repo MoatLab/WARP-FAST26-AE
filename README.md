@@ -1,15 +1,15 @@
 
 # Experiment scripts for WARP
-These are the scripts that I used for both FDP SSD and WARP(proj old name Cylon-FDP) testing.
+These are the scripts that I used for both FDP SSD and WARP(the old name Cylon-FDP) testing.
 
 Experiments are three-fold. FIO. CacheLib. and F2FS.
-
-## FDP SSD setup (nvme cli)
+* FDP SSD setup (real FDP SSD nvme-cli setup)
 ```
 sudo ./fdp_setup_nvme-cli.sh /dev/nvmeX
 ```
 
-# 0.Dependency 
+# Step 0. Prerequisite(Inside the VM)
+**Note. If you are using the provided VM image, skip this step. **
 ## libnvme
 I'm using `nvme fdp ` command to get the write amplification results
 to use, libnvme should be v1.5
@@ -17,15 +17,26 @@ to use, libnvme should be v1.5
 ```
 wget https://github.com/linux-nvme/libnvme/archive/refs/tags/v1.5.tar.gz
 ```
-tar -xvf v1.5.tar.gz, then
-
+```
+tar -xvf v1.5.tar.gz
+```
 ```
 meson setup .build
 ```
 
-
 ## liburing 
-version 2.3 >= works fine
+version 2.3 >= works fine. Scripts for liburing install.
+```bash
+wget https://github.com/axboe/liburing/archive/refs/tags/liburing-2.3.tar.gz
+```
+```
+tar -xvf liburing-2.3.tar.gz; cd liburing-liburing-2.3/
+```
+```
+./configure --cc=gcc --cxx=g++;
+make -j$(nproc);
+sudo make install;
+```
 
 Also works fine with
 v2.3
@@ -37,7 +48,17 @@ v2.10
 
 ## FIO
 version 3.36
-
+```bash
+wget https://github.com/axboe/fio/archive/refs/tags/fio-3.36.tar.gz
+```
+```
+tar -xvf fio-3.36.tar.gz ; cd fio-fio-3.36/
+```
+```
+./configure ;
+make;
+make install;
+```
 
 ## Kernel
 Using 6.2.14
@@ -46,17 +67,21 @@ Also tested with
 v6.5.6
 v6.10.x (especially F2FS, 6.10.x)
 
+## Kernel-FDP patch
+TBD
+
 # 1. WARP evaluation procedure and requirements
 
 ## Phase 1: infrastructure setup
 
-- Hardware and environment: x86_64 server with Linux 6.2.14 or 6.5.6 with KVM enabled.
+- Hardware and environment: a KVM-enabled x86_64 server with Linux 6.2.14 or 6.5.6.
 - DRAM requirement: 500 GB DRAM
-- VM preparation: clone the WARP repo with <command> and pull the image with <command>. Then, move into <director> and run <./run_fdp_RU256.sh> to start the qemu VM
+- VM preparation: clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and pull the image with <command>. Then, move into <director> and run <./run_fdp_RU256.sh> to start the qemu VM
 - Then connect to VM using this ssh <ssh -P 180880 warp@localhost>
 - This process will consume about 1 hour, and most of the time will be spent pulling the image.
  
 ## Phase 2: experiment run 
+These figures help to comprehend how to use WARP and plot the figures in the paper from the experiment output. Detailed instructions are given next section.
 - Overview
    * Two steps for setup the env.This is the basic experiment setup for WARP.
        1. Launch the VM(script in `build-femu` dir)
