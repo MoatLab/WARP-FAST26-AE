@@ -123,7 +123,7 @@ In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to lau
 - **1stream/2stream/3stream** is the experiment name corresponding to the paper.
 - **log/nvme0_waf_1sec.txt** is needed for plotting. Recommend using `rsync` to get *nvme0_waf_1sec.txt*. Explain in later section.
 <img width="1920" height="1080" alt="image (3)" src="https://github.com/user-attachments/assets/6ced7a0f-92da-4361-bee9-e98e857778dd" />
-<img width="1920" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/524dfa89-b898-4850-893b-146556f34a58" />
+<img width="955" height="402" alt="image" src="https://github.com/user-attachments/assets/2cec25f9-3195-4a53-80b3-2504ba987dd6" />
 
 - Figure 11, run `./run_fdp_WARP4.sh`, ssh to VM, and `run-fig11.sh`. Experiment will take 36 hours.
 - Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. Experiment will take 10 hours(`.txt` file for fig13, `log` for Fig16).
