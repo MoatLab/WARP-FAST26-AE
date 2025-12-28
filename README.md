@@ -15,19 +15,19 @@ At most, 1 week of one experiment to collect the write amplification result from
 Given that one experiment corresponds to one line in the figure, the actual amount of time to reproduce all the results will take more than a month.
 These numbers assume that the experiment successfully finished without any human mistakes (e.g., incorrect parameter setting or script) and unexpected system failure.
 
-Since this amount of time is a burden for artifact evaluation, we collect and select core experiments that represent this project well.
+Since this amount of time is a burden for artifact evaluation, we collect and select core experiments that represent this paper the most.
 Given that the contributions of this paper are explaining the write amplification phenomenon with WARP and the reliability of WARP itself,
 We select and organize the following experiments for FAST artifact evaluation.
 
-Please follow the guidance to reproduce the result.
-Although we are providing instructions for selected experiments, we prepare all experiment scripts for the entire experiments in the paper.
+This document will help you to initiate experiments, generate results, make and check figures in the paper.
+Due to the amount of time, we first recommend generating and evaluating a subset of each figure, instead of reproducing all exps for a single figure (e.g., Fig. 13a, FDP line).
+Although we are providing instructions for selected experiments, we prepare all experiment scripts for the entire experiment in the paper.
 
 Thank you.
 ```
 # Experiment scripts for WARP
 These are the scripts that I used for both FDP SSD and WARP(the old name Cylon-FDP) testing.
 
-Experiments are three-fold. FIO. CacheLib. and F2FS.
 * FDP SSD setup (real FDP SSD nvme-cli setup)
 ```
 sudo ./fdp_setup_nvme-cli.sh /dev/nvmeX
@@ -110,7 +110,7 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
 ### Overview
 <img width="949" height="309" alt="image" src="https://github.com/user-attachments/assets/048e4edf-cca7-498d-bb84-961938b396a5" />
 
-   * Two steps for setup the env.This is the basic experiment setup for WARP.
+   * Two steps for setting up the env.This is the basic experiment setup for WARP.
        1. Launch the VM(script in `build-femu` dir)
        2. Launch the exp script(this repo) to run the experiments. 
    * Two files will be needed for figure plotting.
@@ -127,7 +127,19 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
 - **log/nvme0_waf_1sec.txt** is needed for plotting. Recommend using `rsync` to get *nvme0_waf_1sec.txt*. Explain in later section.
 
 #### Fig 11
-- Figure 11, run `./run_fdp_WARP4.sh`, ssh to VM, and `run-fig11.sh`. Experiment will take 36 hours.
+
+- VM
+   * Figure 11, run `./run_fdp_WARP4.sh`
+   * ssh to VM `ssh -P 18080 warp@localhost`
+   * `cd FIO-scripts`
+   * `./run-fig11.sh`
+   * Experiment will take ~2hours.
+
+- In host machine,
+   * ``` git clone ``` this repo
+   * `cd` to this repo 
+   * `rsync vm:~/FIXME/FIO-scripts/1stream/nvme0_waf_1sec.txt .`
+   * launch fig11.ipynb and reproduce. Check whether the script captures the result file from ['No such file/dir'] to [Check!]
 
 #### Fig 13 and 16
 - Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. `nvmeX_waf_1sec.txt` file is for fig13. `log` file in build-femu dir is for Fig16. Experiment will take 10 hours.
