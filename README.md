@@ -1,4 +1,29 @@
 
+```
+Dear FAST artifact evaluation committees,
+
+I'm Inho Song, one of the authors of 'Characterizing and Emulating FDP SSDs with WARP' and this is the doc for the artifact reproduction document.
+We hope this document helps to reproduce the results of WARP, given that this is also an open-source contribution for the community.
+
+The results of this paper convey both real SSDs and WARP write amplification results.
+These require making a workload size 5 to 10 times the device capacity for a thorough investigation.
+This leads to 4 to 5 hours for each line in a single figure in this paper.
+Artifact evaluation for this paper, therefore, will consume more than 100hours, approximately 1 week to reproduce all experiments result and plot them.
+Plus, in the paper, there are real FDP SSD experiments.
+Some experiments take at least 4 hours to run.
+At most, 1 week of one experiment to collect the write amplification result from a real SSD(e.g., CacheLib).
+Given that one experiment corresponds to one line in the figure, the actual amount of time to reproduce all the results will take more than a month.
+These numbers assume that the experiment successfully finished without any human mistakes (e.g., incorrect parameter setting or script) and unexpected system failure.
+
+Since this amount of time is a burden for artifact evaluation, we collect and select core experiments that represent this project well.
+Given that the contributions of this paper are explaining the write amplification phenomenon with WARP and the reliability of WARP itself,
+We select and organize the following experiments for FAST artifact evaluation.
+
+Please follow the guidance to reproduce the result.
+Although we are providing instructions for selected experiments, we prepare all experiment scripts for the entire experiments in the paper.
+
+Thank you.
+```
 # Experiment scripts for WARP
 These are the scripts that I used for both FDP SSD and WARP(the old name Cylon-FDP) testing.
 
@@ -86,14 +111,14 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
    * Two steps for setup the env.This is the basic experiment setup for WARP.
        1. Launch the VM(script in `build-femu` dir)
        2. Launch the exp script(this repo) to run the experiments. 
-   * Two file will be needed for figure plotting.
+   * Two files will be needed for figure plotting.
        1. `nvmeX_waf_1sec.txt` (or `samsung_waf_1sec.txt` by `5.get_waf.sh` script)
-       2. `log` file. This located in outside of the VM, in `build-femu` directory.
+       2. `log` file. This is located outside of the VM, in `build-femu` directory.
     
 In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to launch the VM. This is equivalent to WARP-A. Make sure your VM is using libnvme 1.5 and fio 3.36(`pkg-config --modversion libnvme` and `fio --version`). GC policy is greedy.
 <img width="949" height="309" alt="image" src="https://github.com/user-attachments/assets/048e4edf-cca7-498d-bb84-961938b396a5" />
 
-- Instruction map for the fio experiments. Each line approximately takes 2-5 hours for the single experiment run. For every run, two file will be collected. `nvmeX_waf_1sec.txt`(VM inside) and `log`(VM outside, `build-femu`).
+- Instruction map for the fio experiments. Each line approximately takes 2-5 hours for a single experiment run. For every run, two files will be collected. `nvmeX_waf_1sec.txt`(VM inside) and `log`(VM outside, `build-femu`).
 - **VM** specifies which femu script should be launched.
 - **1stream/2stream/3stream** is the experiment name corresponding to the paper.
 - **log/nvme0_waf_1sec.txt** is needed for plotting. Recommend using `rsync` to get *nvme0_waf_1sec.txt*. Explain in later section.
@@ -101,15 +126,15 @@ In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to lau
 <img width="1920" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/524dfa89-b898-4850-893b-146556f34a58" />
 
 - Figure 11, run `./run_fdp_WARP4.sh`, ssh to VM, and `run-fig11.sh`. Experiment will take 36 hours.
-- Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. Experiment will take 10 hours. `.txt` file for fig13, `log` for Fig16.
+- Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. Experiment will take 10 hours(`.txt` file for fig13, `log` for Fig16).
 - Figure 15, run "./run_fdp_WARP_B.sh", ssh to VM, and run `run-fig15.sh`. Experiment will take (???) hours
 - Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
-- For Figure 17 and 18, run the following four commands. Each command will take 4 hours.
-  * `./run_fdp_WARP256II10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-  * `./run_fdp_WARP256PI10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-  * `./run_fdp_WARP256II7.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-  * `./run_fdp_WARP256P17.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `log`
-
+- For Figures 17 and 18, run the following four commands. Each command will take 4 hours. For every exp, we advise shutting down and relaunching the VM.
+  * `./run_fdp_WARP256II10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
+  * `./run_fdp_WARP256PI10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
+  * `./run_fdp_WARP256II7.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
+  * `./run_fdp_WARP256P17.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
+  * plot figure 17 and 18 with ipynb file.
 
 ### Fig 11
 
