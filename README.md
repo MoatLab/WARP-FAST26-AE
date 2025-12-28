@@ -33,8 +33,8 @@ Experiments are three-fold. FIO. CacheLib. and F2FS.
 sudo ./fdp_setup_nvme-cli.sh /dev/nvmeX
 ```
 
-# Step 0. Prerequisite(Inside the VM)
-**Note. If you are using the provided VM image, skip this step. **
+# Phase 0. Prerequisite(Inside the VM)
+**Note. If you are using the provided VM image, skip this step.**
 ## libnvme
 I'm using `nvme fdp ` command to get the write amplification results
 to use, libnvme should be v1.5
@@ -107,28 +107,41 @@ TBD
  
 ## Phase 2: experiment run 
 These figures help to comprehend how to use WARP and plot the figures in the paper from the experiment output. Detailed instructions are given next section.
-- Overview
+### Overview
+<img width="949" height="309" alt="image" src="https://github.com/user-attachments/assets/048e4edf-cca7-498d-bb84-961938b396a5" />
+
    * Two steps for setup the env.This is the basic experiment setup for WARP.
        1. Launch the VM(script in `build-femu` dir)
        2. Launch the exp script(this repo) to run the experiments. 
    * Two files will be needed for figure plotting.
        1. `nvmeX_waf_1sec.txt` (or `samsung_waf_1sec.txt` by `5.get_waf.sh` script)
        2. `log` file. This is located outside of the VM, in `build-femu` directory.
-    
-In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to launch the VM. This is equivalent to WARP-A. Make sure your VM is using libnvme 1.5 and fio 3.36(`pkg-config --modversion libnvme` and `fio --version`). GC policy is greedy.
-<img width="949" height="309" alt="image" src="https://github.com/user-attachments/assets/048e4edf-cca7-498d-bb84-961938b396a5" />
+   * In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to launch the VM. This is equivalent to WARP-A. Make sure your VM is using libnvme 1.5 and fio 3.36(`pkg-config --modversion libnvme` and `fio --version`). GC policy is greedy.
+
+### Fig 11, 13, 14, 15, 16, 17, and 18 (FIO)
+<img width="1920" height="1080" alt="image (3)" src="https://github.com/user-attachments/assets/6ced7a0f-92da-4361-bee9-e98e857778dd" />
 
 - Instruction map for the fio experiments. Each line approximately takes 2-5 hours for a single experiment run. For every run, two files will be collected. `nvmeX_waf_1sec.txt`(VM inside) and `log`(VM outside, `build-femu`).
 - **VM** specifies which femu script should be launched.
 - **1stream/2stream/3stream** is the experiment name corresponding to the paper.
 - **log/nvme0_waf_1sec.txt** is needed for plotting. Recommend using `rsync` to get *nvme0_waf_1sec.txt*. Explain in later section.
-<img width="1920" height="1080" alt="image (3)" src="https://github.com/user-attachments/assets/6ced7a0f-92da-4361-bee9-e98e857778dd" />
+
+#### Fig 11
+- Figure 11, run `./run_fdp_WARP4.sh`, ssh to VM, and `run-fig11.sh`. Experiment will take 36 hours.
+
+#### Fig 13 and 16
+- Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. `nvmeX_waf_1sec.txt` file is for fig13. `log` file in build-femu dir is for Fig16. Experiment will take 10 hours.
+
+#### Fig 14
+- Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
+
+#### Fig 15
+- Figure 15, run "./run_fdp_WARP_B.sh", ssh to VM, and run `run-fig15.sh`. Experiment will take (???) hours
+
+
+#### Fig 17 and 18
 <img width="955" height="402" alt="image" src="https://github.com/user-attachments/assets/2cec25f9-3195-4a53-80b3-2504ba987dd6" />
 
-- Figure 11, run `./run_fdp_WARP4.sh`, ssh to VM, and `run-fig11.sh`. Experiment will take 36 hours.
-- Figure 13 and 16, run `./run_fdp_WARP_A.sh`, ssh to VM, and `run-fig1316.sh`. Experiment will take 10 hours(`.txt` file for fig13, `log` for Fig16).
-- Figure 15, run "./run_fdp_WARP_B.sh", ssh to VM, and run `run-fig15.sh`. Experiment will take (???) hours
-- Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
 - For Figures 17 and 18, run the following four commands. Each command will take 4 hours. For every exp, we advise shutting down and relaunching the VM.
   * `./run_fdp_WARP256II10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
   * `./run_fdp_WARP256PI10.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
@@ -136,11 +149,6 @@ In here, `sudo ./run_fdp_RU256.sh` (or `sudo nohup ./run_fdp_RU256.sh &`) to lau
   * `./run_fdp_WARP256P17.sh` -> `ssh -P 18080 warp@localhost` -> `command here` -> `mv log fixme_log` -> `mv fixme_log dir/fixme_log`
   * plot figure 17 and 18 with ipynb file.
 
-### Fig 11
-
-### Fig 13
-
-### Fig 
 
 
 
