@@ -43,10 +43,10 @@ to use, libnvme should be v1.5
 wget https://github.com/linux-nvme/libnvme/archive/refs/tags/v1.5.tar.gz
 ```
 ```
-tar -xvf v1.5.tar.gz
+tar -xvf v1.5.tar.gz; cd libnvme-1.5/;
 ```
 ```
-meson setup .build
+meson setup .build; meson compile -C .build; meson install -C .build;
 ```
 
 ## liburing 
