@@ -23,7 +23,7 @@
 
 - VM
    * In `build-femu` dir, run `./run-fdp-WARP4.sh`
-   * ssh to VM `ssh vm` (See **tip**) or `ssh -P 18080 femu@localhost`
+   * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -P 18080 femu@localhost`
    * `git clone https://github.com/MoatLab/fdp-exp-scripts;` (skip if you have done this)
    * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
    * `sudo nohup ./run-fig11.sh &` or `sudo ./run-fig11.sh` (Ctrl^C if goes wrong)
@@ -31,21 +31,34 @@
    * `popd` and run `python3 Fig11.py` and check `val-1stream-AE.jpeg` file for Fig11. (Check Fig11.ipynb if you prefer this)
  
 #### Three stream write experiment (Fig 13,15, and 16)
-
+(shutdown previous VM if the previous one is alive.)
 - VM
    * In `build-femu` dir, run `./run-fdp-RU256.sh`
-   * ssh to VM ssh vm` (See **tip**) or `ssh -P 18080 femu@localhost`
+   * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
    * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
    * `sudo ./run-fig1316.sh`. (`sudo nohup ./run-fig1316.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
    * Experiment will take ~3hours.
    * `popd`(or `cd ~/fdp-exp-scripts`) and run `python3 Fig13.py`.
-   * check `val-3stream-AE.jpeg` file for Fig13. (Check Fig13.ipynb if you prefer this)
+   * check `3stream_WARP_AE.jpeg` file for Fig13. (Check Fig13.ipynb if you prefer this)
+
+- Fig15&16: move `log` file in Host to VM
+   * In the host machine(outside VM), locate to `build-femu` directory. 
+   * `rsync log vm:~/fdp-exp-scripts/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
+   * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+   * `cd ~/fdp-exp-scripts` and run `python3 Fig1516.py`
+   * Check `fdp_3syn_investigation-HBMWDLWA-AE.jpeg` and `Noisy.jpeg`. (Check Fig131516.ipynb if you prefer this)
+ 
+#### Three stream write experiment (Fig 14)
+(shutdown previous VM if the previous one is alive.)
+- VM
+  * In `build-femu` dir, run `./run-fdp-WARPA2.sh`
+  * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+  * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
+  * `sudo ./run-fig14.sh`. (`sudo nohup ./run-fig14.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
+  * Experiment will take ~2*3hours.
+  * 
 
 
-
-- To generate Figure 13 and 16, run "./run_fdp_WARP_A.sh" in VM A. experiment will take 10 hours
-- To generate Figure 15, run "./run_fdp_WARP_B.sh" in VM B. experiment will take (???) hours
-- To generate Figure 14, run "./run_fdp_WARP_A2.sh". experiment will take 12 hours
 - For Figure 17 and 18, run following four commands and each command will take 4 hours
 - "./run_fdp_WARP256II10.sh"
 - "./run_fdp_WARP256PI10.sh"
