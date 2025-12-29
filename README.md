@@ -163,7 +163,7 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
 #### Fig 11
 
 - VM
-   * In `build-femu` dir, run `./run_fdp_WARP4.sh`
+   * In `build-femu` dir, run `./run-fdp-WARP4.sh`
    * ssh to VM `ssh -P 18080 femu@localhost`
    * `git clone https://github.com/MoatLab/fdp-exp-scripts;` (skip if you have done this)
    * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/1stream/`
