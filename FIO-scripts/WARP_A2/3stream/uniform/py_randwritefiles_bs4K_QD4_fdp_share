@@ -36,7 +36,7 @@ time_based=1
 norandommap
 iodepth=1
 numjobs=1
-runtime=9000
+runtime=18000
 fdp_pli=0
 log_avg_msec=100
 write_bw_log=1threadQD4_4Kwrite
@@ -54,7 +54,7 @@ time_based=1
 norandommap
 iodepth=32
 numjobs=1
-runtime=9000
+runtime=18000
 fdp_pli=0
 log_avg_msec=100
 write_bw_log=1threadQD4_4Krandwrite
@@ -71,7 +71,7 @@ time_based=1
 norandommap
 iodepth=32
 numjobs=1
-runtime=9000
+runtime=18000
 fdp_pli=1
 log_avg_msec=100
 write_bw_log=1threadQD4_4Krandwrite

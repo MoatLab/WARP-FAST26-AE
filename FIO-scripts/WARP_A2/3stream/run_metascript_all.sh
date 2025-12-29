@@ -7,10 +7,11 @@ working_dir="${current_directory}/"
 superworkload_dir=( "zoned" "zipf_2.2" "zipf_1.2" "uniform" )
 #superworkload_dir=("zipf_1.2" "zoned" "zipf_2.2" "zoned_QD16" "sq0_90r_zipf_1.2" "sq0_zipf_1.2" )
 
-workload_dir=("fdp" "fdp_share" "nofdp")
-workload_file=("py_randwritefiles_bs4K_QD4_fdp" "py_randwritefiles_bs4K_QD4_fdp_share" "py_randwritefiles_bs4K_QD4_t0")
+#workload_dir=("fdp" "fdp_share" "nofdp")
+workload_dir=("fdp")
+#workload_file=("py_randwritefiles_bs4K_QD4_fdp" "py_randwritefiles_bs4K_QD4_fdp_share" "py_randwritefiles_bs4K_QD4_t0")
+workload_file=("py_randwritefiles_bs4K_QD4_fdp" )
 
-echo  "grep -rn rw=randwrite"
 
 for s in ${!superworkload_dir[@]}
 do
@@ -25,13 +26,13 @@ do
 
 sudo ./trim.sh > /dev/null
 
-sleep 100
+sleep 10
 sudo ./5.get_waf.sh &
 wakeup_pid=$!
-sudo ./6.get_bw.sh &
-wakeup_pid2=$!
+#sudo ./6.get_bw.sh &
+#wakeup_pid2=$!
 echo "  get_waf.sh PID:  $wakeup_pid"
-echo "  get_bw.sh PID :  $wakeup_pid2"
+#echo "  get_bw.sh PID :  $wakeup_pid2"
 
 bs=4
 #qd=$((2**i))
@@ -49,7 +50,7 @@ echo "  ${cmd}"
 ${cmd} >> 1threadQD${qd}_${bs}${size_tag}write_output
 sleep 0.1
 
-sleep 100
+sleep 10
 echo "kill $wakeup_pid"
 sudo kill $wakeup_pid
 
