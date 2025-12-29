@@ -1,0 +1,2285 @@
+04:21:41       0.00M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 0
+Items in NVM  : 0
+Alloc Attempts: 0 Success: 100.00%
+Evict Attempts: 0 Success: 0.00%
+RAM Evictions : 0
+Fraction of pool 0 used : 0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :               0, Success   : 100.00%, Clean   :   0.00%, AbortsFromDel   :        0, AbortsFromGet   :        0
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :               0 Skipped Deletes:   0.00%
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 0.00 million
+Total sets: 0
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :         0/s, success   :   0.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 0.00 million (parse error: 0)
+
+04:22:41      28.21M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,557,707
+Items in NVM  : 2,591,469
+Alloc Attempts: 28,212,446 Success: 100.00%
+Evict Attempts: 10,773,597 Success: 99.93%
+RAM Evictions : 10,766,105
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      35.00 us
+NVM Read  Latency    p90      :     147.00 us
+NVM Read  Latency    p99      :     798.00 us
+NVM Read  Latency    p999     :    2965.00 us
+NVM Read  Latency    p9999    :    6049.00 us
+NVM Read  Latency    p99999   :    7016.00 us
+NVM Read  Latency    p999999  :    7112.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     128.00 us
+NVM Write Latency    p99      :     547.00 us
+NVM Write Latency    p999     :    2225.00 us
+NVM Write Latency    p9999    :    6304.00 us
+NVM Write Latency    p99999   :    7741.00 us
+NVM Write Latency    p999999  :    7885.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  :  12.22 GB
+NVM bytes written (logical)   :   3.41 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   3.58
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :      10,766,677, Success   :  33.65%, Clean   :   0.00%, AbortsFromDel   :    2,123, AbortsFromGet   :        0
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :      21,324,386 Skipped Deletes:  48.79%
+Total eviction executed 7144018
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 28.21 million
+Total sets: 28,209,706
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   469,884/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 0.20 million (parse error: 0)
+
+04:23:41      55.75M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,559,356
+Items in NVM  : 6,703,678
+Alloc Attempts: 55,752,153 Success: 100.00%
+Evict Attempts: 31,214,879 Success: 99.96%
+RAM Evictions : 31,203,343
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      36.00 us
+NVM Read  Latency    p90      :     148.00 us
+NVM Read  Latency    p99      :     809.00 us
+NVM Read  Latency    p999     :    2926.00 us
+NVM Read  Latency    p9999    :    5901.00 us
+NVM Read  Latency    p99999   :    6866.00 us
+NVM Read  Latency    p999999  :    6963.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     127.00 us
+NVM Write Latency    p99      :     535.00 us
+NVM Write Latency    p999     :    2143.00 us
+NVM Write Latency    p9999    :    4808.00 us
+NVM Write Latency    p99999   :    5647.00 us
+NVM Write Latency    p999999  :    5731.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  :  32.36 GB
+NVM bytes written (logical)   :   8.42 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   3.84
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :      31,203,705, Success   :  25.54%, Clean   :   0.00%, AbortsFromDel   :  710,456, AbortsFromGet   :        2
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :      41,763,060 Skipped Deletes:  24.91%
+Total eviction executed 23234614
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 55.75 million
+Total sets: 55,748,190
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   464,364/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 0.38 million (parse error: 0)
+
+04:24:41      83.29M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,560,686
+Items in NVM  : 10,566,217
+Alloc Attempts: 83,293,502 Success: 100.00%
+Evict Attempts: 51,901,379 Success: 99.97%
+RAM Evictions : 51,884,826
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      37.00 us
+NVM Read  Latency    p90      :     143.00 us
+NVM Read  Latency    p99      :     777.00 us
+NVM Read  Latency    p999     :    2858.00 us
+NVM Read  Latency    p9999    :    5779.00 us
+NVM Read  Latency    p99999   :    6745.00 us
+NVM Read  Latency    p999999  :    6841.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     124.00 us
+NVM Write Latency    p99      :     516.00 us
+NVM Write Latency    p999     :    2109.00 us
+NVM Write Latency    p9999    :    4771.00 us
+NVM Write Latency    p99999   :    5635.00 us
+NVM Write Latency    p999999  :    5721.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  :  52.60 GB
+NVM bytes written (logical)   :  13.19 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   3.99
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :      51,885,455, Success   :  23.57%, Clean   :   0.00%, AbortsFromDel   : 2,380,634, AbortsFromGet   :        2
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :      62,446,140 Skipped Deletes:  16.66%
+Total eviction executed 39655598
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 83.29 million
+Total sets: 83,290,217
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   462,536/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 0.57 million (parse error: 0)
+
+04:25:41     111.07M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,562,618
+Items in NVM  : 14,265,764
+Alloc Attempts: 111,075,884 Success: 100.00%
+Evict Attempts: 72,631,886 Success: 99.97%
+RAM Evictions : 72,612,612
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      37.00 us
+NVM Read  Latency    p90      :     143.00 us
+NVM Read  Latency    p99      :     750.00 us
+NVM Read  Latency    p999     :    2748.00 us
+NVM Read  Latency    p9999    :    5615.00 us
+NVM Read  Latency    p99999   :    6508.00 us
+NVM Read  Latency    p999999  :    6597.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     124.00 us
+NVM Write Latency    p99      :     514.00 us
+NVM Write Latency    p999     :    2007.00 us
+NVM Write Latency    p9999    :    4726.00 us
+NVM Write Latency    p99999   :    5586.00 us
+NVM Write Latency    p999999  :    5672.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  :  72.72 GB
+NVM bytes written (logical)   :  17.67 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.12
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :      72,613,032, Success   :  22.64%, Clean   :   0.00%, AbortsFromDel   : 4,455,248, AbortsFromGet   :        3
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :      83,175,652 Skipped Deletes:  12.51%
+Total eviction executed 56175102
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 111.07 million
+Total sets: 111,071,383
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   462,623/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 0.77 million (parse error: 0)
+
+04:26:41     138.67M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,564,055
+Items in NVM  : 17,861,579
+Alloc Attempts: 138,670,866 Success: 100.00%
+Evict Attempts: 93,385,968 Success: 99.98%
+RAM Evictions : 93,362,746
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      36.00 us
+NVM Read  Latency    p90      :     141.00 us
+NVM Read  Latency    p99      :     763.00 us
+NVM Read  Latency    p999     :    2589.00 us
+NVM Read  Latency    p9999    :    5288.00 us
+NVM Read  Latency    p99999   :    6147.00 us
+NVM Read  Latency    p999999  :    6233.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     123.00 us
+NVM Write Latency    p99      :     523.00 us
+NVM Write Latency    p999     :    1917.00 us
+NVM Write Latency    p9999    :    4329.00 us
+NVM Write Latency    p99999   :    5089.00 us
+NVM Write Latency    p999999  :    5166.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  :  92.79 GB
+NVM bytes written (logical)   :  21.92 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.23
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :      93,363,106, Success   :  22.08%, Clean   :   0.00%, AbortsFromDel   : 6,701,501, AbortsFromGet   :        3
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     103,927,157 Skipped Deletes:  10.01%
+Total eviction executed 72749679
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 138.67 million
+Total sets: 138,668,155
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   462,062/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 0.96 million (parse error: 0)
+
+04:27:41     166.12M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,565,097
+Items in NVM  : 21,308,235
+Alloc Attempts: 166,124,123 Success: 100.00%
+Evict Attempts: 114,104,377 Success: 99.97%
+RAM Evictions : 114,074,645
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     150.00 us
+NVM Read  Latency    p99      :     800.00 us
+NVM Read  Latency    p999     :    2510.00 us
+NVM Read  Latency    p9999    :    5126.00 us
+NVM Read  Latency    p99999   :    5976.00 us
+NVM Read  Latency    p999999  :    6061.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     127.00 us
+NVM Write Latency    p99      :     548.00 us
+NVM Write Latency    p999     :    1888.00 us
+NVM Write Latency    p9999    :    4216.00 us
+NVM Write Latency    p99999   :    4971.00 us
+NVM Write Latency    p999999  :    5046.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 112.54 GB
+NVM bytes written (logical)   :  26.36 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.27
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     114,075,410, Success   :  21.60%, Clean   :   0.00%, AbortsFromDel   : 9,091,773, AbortsFromGet   :        3
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     124,640,512 Skipped Deletes:   8.35%
+Total eviction executed 89431987
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 166.12 million
+Total sets: 166,118,983
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   461,275/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 1.15 million (parse error: 0)
+
+04:28:41     193.49M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,500,754
+Items in NVM  : 24,779,537
+Alloc Attempts: 193,496,242 Success: 100.00%
+Evict Attempts: 134,578,968 Success: 100.02%
+RAM Evictions : 134,607,012
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      37.00 us
+NVM Read  Latency    p90      :     141.00 us
+NVM Read  Latency    p99      :     687.00 us
+NVM Read  Latency    p999     :    2175.00 us
+NVM Read  Latency    p9999    :    4589.00 us
+NVM Read  Latency    p99999   :    5357.00 us
+NVM Read  Latency    p999999  :    5434.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     122.00 us
+NVM Write Latency    p99      :     494.00 us
+NVM Write Latency    p999     :    1651.00 us
+NVM Write Latency    p9999    :    3816.00 us
+NVM Write Latency    p99999   :    4530.00 us
+NVM Write Latency    p999999  :    4601.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 132.79 GB
+NVM bytes written (logical)   :  30.61 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.34
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     134,607,471, Success   :  21.38%, Clean   :   0.00%, AbortsFromDel   : 11,601,347, AbortsFromGet   :       16
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     145,108,220 Skipped Deletes:   7.17%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 105824074
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 193.49 million
+Total sets: 193,491,728
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   460,533/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 1.34 million (parse error: 0)
+
+04:29:41     220.59M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,501,980
+Items in NVM  : 28,020,506
+Alloc Attempts: 220,596,937 Success: 100.00%
+Evict Attempts: 154,969,576 Success: 100.01%
+RAM Evictions : 154,992,818
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     153.00 us
+NVM Read  Latency    p99      :     793.00 us
+NVM Read  Latency    p999     :    2512.00 us
+NVM Read  Latency    p9999    :    5396.00 us
+NVM Read  Latency    p99999   :    6348.00 us
+NVM Read  Latency    p999999  :    6443.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     129.00 us
+NVM Write Latency    p99      :     561.00 us
+NVM Write Latency    p999     :    1912.00 us
+NVM Write Latency    p9999    :    4312.00 us
+NVM Write Latency    p99999   :    5112.00 us
+NVM Write Latency    p999999  :    5192.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 152.46 GB
+NVM bytes written (logical)   :  34.96 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.36
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     154,993,358, Success   :  21.10%, Clean   :   0.00%, AbortsFromDel   : 14,099,931, AbortsFromGet   :       16
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     165,495,341 Skipped Deletes:   6.29%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 122288375
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 220.59 million
+Total sets: 220,592,995
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   459,404/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 1.52 million (parse error: 0)
+
+04:30:41     248.01M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,503,549
+Items in NVM  : 30,946,850
+Alloc Attempts: 248,012,514 Success: 100.00%
+Evict Attempts: 175,428,881 Success: 100.01%
+RAM Evictions : 175,449,556
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     157.00 us
+NVM Read  Latency    p99      :     830.00 us
+NVM Read  Latency    p999     :    2511.00 us
+NVM Read  Latency    p9999    :    4933.00 us
+NVM Read  Latency    p99999   :    5708.00 us
+NVM Read  Latency    p999999  :    5785.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     128.00 us
+NVM Write Latency    p99      :     573.00 us
+NVM Write Latency    p999     :    1912.00 us
+NVM Write Latency    p9999    :    4063.00 us
+NVM Write Latency    p99999   :    4743.00 us
+NVM Write Latency    p999999  :    4811.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 171.45 GB
+NVM bytes written (logical)   :  38.97 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.40
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     175,450,068, Success   :  20.76%, Clean   :   0.00%, AbortsFromDel   : 17,071,854, AbortsFromGet   :       17
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     185,953,614 Skipped Deletes:   5.59%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 139028081
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 248.01 million
+Total sets: 248,009,456
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   459,116/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 1.71 million (parse error: 0)
+
+04:31:41     275.38M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,504,371
+Items in NVM  : 33,667,738
+Alloc Attempts: 275,385,523 Success: 100.00%
+Evict Attempts: 195,937,875 Success: 100.01%
+RAM Evictions : 195,953,585
+Fraction of pool 0 used : 0.99
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     157.00 us
+NVM Read  Latency    p99      :     862.00 us
+NVM Read  Latency    p999     :    2593.00 us
+NVM Read  Latency    p9999    :    5200.00 us
+NVM Read  Latency    p99999   :    6019.00 us
+NVM Read  Latency    p999999  :    6101.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     128.00 us
+NVM Write Latency    p99      :     589.00 us
+NVM Write Latency    p999     :    1940.00 us
+NVM Write Latency    p9999    :    4236.00 us
+NVM Write Latency    p99999   :    4987.00 us
+NVM Write Latency    p999999  :    5063.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 190.17 GB
+NVM bytes written (logical)   :  42.80 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.44
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     195,954,303, Success   :  20.42%, Clean   :   0.00%, AbortsFromDel   : 20,586,376, AbortsFromGet   :       17
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     206,458,677 Skipped Deletes:   5.04%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 155938320
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 275.38 million
+Total sets: 275,381,716
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   458,809/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 1.90 million (parse error: 0)
+
+04:32:41     302.55M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,506,532
+Items in NVM  : 36,470,965
+Alloc Attempts: 302,557,996 Success: 100.00%
+Evict Attempts: 216,323,799 Success: 100.01%
+RAM Evictions : 216,335,104
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     151.00 us
+NVM Read  Latency    p99      :     813.00 us
+NVM Read  Latency    p999     :    2473.00 us
+NVM Read  Latency    p9999    :    4955.00 us
+NVM Read  Latency    p99999   :    5735.00 us
+NVM Read  Latency    p999999  :    5813.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     557.00 us
+NVM Write Latency    p999     :    1860.00 us
+NVM Write Latency    p9999    :    4120.00 us
+NVM Write Latency    p99999   :    4851.00 us
+NVM Write Latency    p999999  :    4924.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 209.36 GB
+NVM bytes written (logical)   :  46.71 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.48
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     216,335,897, Success   :  20.21%, Clean   :   0.00%, AbortsFromDel   : 24,238,692, AbortsFromGet   :       21
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     226,842,446 Skipped Deletes:   4.59%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 172623170
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 302.55 million
+Total sets: 302,553,699
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   458,254/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 2.09 million (parse error: 0)
+
+04:33:41     329.73M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,507,503
+Items in NVM  : 39,304,224
+Alloc Attempts: 329,733,167 Success: 100.00%
+Evict Attempts: 236,616,687 Success: 100.00%
+RAM Evictions : 236,625,066
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     151.00 us
+NVM Read  Latency    p99      :     826.00 us
+NVM Read  Latency    p999     :    2470.00 us
+NVM Read  Latency    p9999    :    4827.00 us
+NVM Read  Latency    p99999   :    5583.00 us
+NVM Read  Latency    p999999  :    5659.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     563.00 us
+NVM Write Latency    p999     :    1889.00 us
+NVM Write Latency    p9999    :    4018.00 us
+NVM Write Latency    p99999   :    4682.00 us
+NVM Write Latency    p999999  :    4748.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 228.86 GB
+NVM bytes written (logical)   :  50.74 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.51
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     236,625,647, Success   :  20.05%, Clean   :   0.00%, AbortsFromDel   : 27,527,057, AbortsFromGet   :       27
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     247,133,144 Skipped Deletes:   4.21%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 189171597
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 329.73 million
+Total sets: 329,729,711
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   457,798/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 2.27 million (parse error: 0)
+
+04:34:41     357.15M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,508,679
+Items in NVM  : 42,158,707
+Alloc Attempts: 357,152,323 Success: 100.00%
+Evict Attempts: 256,988,562 Success: 100.00%
+RAM Evictions : 256,992,843
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     147.00 us
+NVM Read  Latency    p99      :     801.00 us
+NVM Read  Latency    p999     :    2560.00 us
+NVM Read  Latency    p9999    :    5241.00 us
+NVM Read  Latency    p99999   :    6090.00 us
+NVM Read  Latency    p999999  :    6175.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     123.00 us
+NVM Write Latency    p99      :     552.00 us
+NVM Write Latency    p999     :    1938.00 us
+NVM Write Latency    p9999    :    4702.00 us
+NVM Write Latency    p99999   :    5626.00 us
+NVM Write Latency    p999999  :    5718.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 248.38 GB
+NVM bytes written (logical)   :  54.64 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.55
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     256,993,303, Success   :  19.93%, Clean   :   0.00%, AbortsFromDel   : 30,817,039, AbortsFromGet   :       30
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     267,501,997 Skipped Deletes:   3.89%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 205768128
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 357.15 million
+Total sets: 357,149,351
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   457,726/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 2.46 million (parse error: 0)
+
+04:35:41     384.55M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,510,489
+Items in NVM  : 44,943,287
+Alloc Attempts: 384,557,592 Success: 100.00%
+Evict Attempts: 277,317,276 Success: 100.00%
+RAM Evictions : 277,317,244
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     153.00 us
+NVM Read  Latency    p99      :     831.00 us
+NVM Read  Latency    p999     :    2640.00 us
+NVM Read  Latency    p9999    :    6211.00 us
+NVM Read  Latency    p99999   :    7394.00 us
+NVM Read  Latency    p999999  :    7512.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     574.00 us
+NVM Write Latency    p999     :    2070.00 us
+NVM Write Latency    p9999    :    6297.00 us
+NVM Write Latency    p99999   :    7792.00 us
+NVM Write Latency    p999999  :    7941.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 267.58 GB
+NVM bytes written (logical)   :  58.53 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.57
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     277,317,920, Success   :  19.80%, Clean   :   0.00%, AbortsFromDel   : 34,044,341, AbortsFromGet   :       30
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     287,828,409 Skipped Deletes:   3.61%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 222399003
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 384.55 million
+Total sets: 384,554,445
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   457,647/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 2.65 million (parse error: 0)
+
+04:36:41     411.84M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,511,487
+Items in NVM  : 47,743,003
+Alloc Attempts: 411,849,419 Success: 100.00%
+Evict Attempts: 297,648,436 Success: 100.00%
+RAM Evictions : 297,645,618
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     146.00 us
+NVM Read  Latency    p99      :     749.00 us
+NVM Read  Latency    p999     :    2507.00 us
+NVM Read  Latency    p9999    :    6092.00 us
+NVM Read  Latency    p99999   :    7301.00 us
+NVM Read  Latency    p999999  :    7422.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     122.00 us
+NVM Write Latency    p99      :     525.00 us
+NVM Write Latency    p999     :    1973.00 us
+NVM Write Latency    p9999    :    6204.00 us
+NVM Write Latency    p99999   :    7686.00 us
+NVM Write Latency    p999999  :    7834.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 287.25 GB
+NVM bytes written (logical)   :  62.45 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.60
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     297,646,302, Success   :  19.71%, Clean   :   0.00%, AbortsFromDel   : 37,345,376, AbortsFromGet   :       30
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     308,157,790 Skipped Deletes:   3.38%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 238965597
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 411.84 million
+Total sets: 411,844,689
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   457,451/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 2.84 million (parse error: 0)
+
+04:37:41     439.03M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,512,845
+Items in NVM  : 50,446,584
+Alloc Attempts: 439,036,492 Success: 100.00%
+Evict Attempts: 317,960,547 Success: 100.00%
+RAM Evictions : 317,953,847
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     153.00 us
+NVM Read  Latency    p99      :     792.00 us
+NVM Read  Latency    p999     :    2567.00 us
+NVM Read  Latency    p9999    :    6257.00 us
+NVM Read  Latency    p99999   :    7505.00 us
+NVM Read  Latency    p999999  :    7630.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     126.00 us
+NVM Write Latency    p99      :     555.00 us
+NVM Write Latency    p999     :    2052.00 us
+NVM Write Latency    p9999    :    6526.00 us
+NVM Write Latency    p99999   :    8106.00 us
+NVM Write Latency    p999999  :    8264.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 306.42 GB
+NVM bytes written (logical)   :  66.24 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.63
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     317,954,571, Success   :  19.61%, Clean   :   0.00%, AbortsFromDel   : 40,761,065, AbortsFromGet   :       30
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     328,467,411 Skipped Deletes:   3.17%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 255614695
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 439.03 million
+Total sets: 439,033,531
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   457,174/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 3.03 million (parse error: 0)
+
+04:38:41     466.60M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,513,757
+Items in NVM  : 52,993,616
+Alloc Attempts: 466,601,387 Success: 100.00%
+Evict Attempts: 338,444,051 Success: 100.00%
+RAM Evictions : 338,432,140
+Fraction of pool 0 used : 0.99
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     157.00 us
+NVM Read  Latency    p99      :     915.00 us
+NVM Read  Latency    p999     :    2881.00 us
+NVM Read  Latency    p9999    :    6519.00 us
+NVM Read  Latency    p99999   :    7754.00 us
+NVM Read  Latency    p999999  :    7878.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     127.00 us
+NVM Write Latency    p99      :     618.00 us
+NVM Write Latency    p999     :    2268.00 us
+NVM Write Latency    p9999    :    6508.00 us
+NVM Write Latency    p99999   :    7943.00 us
+NVM Write Latency    p999999  :    8086.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 324.89 GB
+NVM bytes written (logical)   :  69.79 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.66
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     338,432,654, Success   :  19.46%, Clean   :   0.00%, AbortsFromDel   : 44,456,691, AbortsFromGet   :       32
+NVM Evicts    :               0, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     348,946,407 Skipped Deletes:   2.98%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 272583961
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 466.60 million
+Total sets: 466,598,382
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   457,299/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 3.21 million (parse error: 0)
+
+04:39:41     493.72M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,516,154
+Items in NVM  : 55,625,830
+Alloc Attempts: 493,725,513 Success: 100.00%
+Evict Attempts: 358,687,622 Success: 100.00%
+RAM Evictions : 358,671,519
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     149.00 us
+NVM Read  Latency    p99      :     781.00 us
+NVM Read  Latency    p999     :    2549.00 us
+NVM Read  Latency    p9999    :    6545.00 us
+NVM Read  Latency    p99999   :    7899.00 us
+NVM Read  Latency    p999999  :    8035.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     124.00 us
+NVM Write Latency    p99      :     544.00 us
+NVM Write Latency    p999     :    1972.00 us
+NVM Write Latency    p9999    :    6422.00 us
+NVM Write Latency    p99999   :    7986.00 us
+NVM Write Latency    p999999  :    8142.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 343.95 GB
+NVM bytes written (logical)   :  73.51 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.68
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     358,672,596, Success   :  19.37%, Clean   :   0.00%, AbortsFromDel   : 48,319,214, AbortsFromGet   :       34
+NVM Evicts    :               2, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     369,188,731 Skipped Deletes:   2.82%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 289204031
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 493.72 million
+Total sets: 493,720,657
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   456,998/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 3.40 million (parse error: 0)
+
+04:40:41     521.13M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,518,287
+Items in NVM  : 58,173,892
+Alloc Attempts: 521,135,494 Success: 100.00%
+Evict Attempts: 379,123,163 Success: 100.00%
+RAM Evictions : 379,104,772
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     157.00 us
+NVM Read  Latency    p99      :     905.00 us
+NVM Read  Latency    p999     :    2931.00 us
+NVM Read  Latency    p9999    :    6763.00 us
+NVM Read  Latency    p99999   :    8054.00 us
+NVM Read  Latency    p999999  :    8183.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     126.00 us
+NVM Write Latency    p99      :     620.00 us
+NVM Write Latency    p999     :    2279.00 us
+NVM Write Latency    p9999    :    6716.00 us
+NVM Write Latency    p99999   :    8285.00 us
+NVM Write Latency    p999999  :    8442.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 362.60 GB
+NVM bytes written (logical)   :  77.24 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.69
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     379,105,667, Success   :  19.25%, Clean   :   0.00%, AbortsFromDel   : 52,177,460, AbortsFromGet   :       44
+NVM Evicts    :               2, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     389,623,959 Skipped Deletes:   2.67%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 306127475
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 521.13 million
+Total sets: 521,132,512
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   456,983/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 3.59 million (parse error: 0)
+
+04:41:41     548.35M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,519,521
+Items in NVM  : 60,709,621
+Alloc Attempts: 548,352,282 Success: 100.00%
+Evict Attempts: 399,507,622 Success: 99.99%
+RAM Evictions : 399,483,564
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     153.00 us
+NVM Read  Latency    p99      :     825.00 us
+NVM Read  Latency    p999     :    2629.00 us
+NVM Read  Latency    p9999    :    6609.00 us
+NVM Read  Latency    p99999   :    7955.00 us
+NVM Read  Latency    p999999  :    8089.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     569.00 us
+NVM Write Latency    p999     :    2052.00 us
+NVM Write Latency    p9999    :    6551.00 us
+NVM Write Latency    p99999   :    8096.00 us
+NVM Write Latency    p999999  :    8251.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 381.27 GB
+NVM bytes written (logical)   :  80.78 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.72
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     399,484,286, Success   :  19.15%, Clean   :   0.00%, AbortsFromDel   : 56,337,208, AbortsFromGet   :       45
+NVM Evicts    :               5, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     410,003,813 Skipped Deletes:   2.54%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 322967047
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 548.35 million
+Total sets: 548,347,441
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   456,804/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 3.78 million (parse error: 0)
+
+04:42:41     575.39M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,521,185
+Items in NVM  : 63,307,511
+Alloc Attempts: 575,391,626 Success: 100.00%
+Evict Attempts: 419,769,190 Success: 99.99%
+RAM Evictions : 419,743,644
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     151.00 us
+NVM Read  Latency    p99      :     848.00 us
+NVM Read  Latency    p999     :    2783.00 us
+NVM Read  Latency    p9999    :    6949.00 us
+NVM Read  Latency    p99999   :    8365.00 us
+NVM Read  Latency    p999999  :    8507.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     124.00 us
+NVM Write Latency    p99      :     580.00 us
+NVM Write Latency    p999     :    2129.00 us
+NVM Write Latency    p9999    :    7004.00 us
+NVM Write Latency    p99999   :    8743.00 us
+NVM Write Latency    p999999  :    8917.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 400.14 GB
+NVM bytes written (logical)   :  84.53 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.73
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     419,744,127, Success   :  19.08%, Clean   :   0.00%, AbortsFromDel   : 60,075,843, AbortsFromGet   :       46
+NVM Evicts    :              11, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     430,265,312 Skipped Deletes:   2.42%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 339658900
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 575.39 million
+Total sets: 575,388,239
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   456,505/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 3.96 million (parse error: 0)
+
+04:43:41     602.05M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,522,380
+Items in NVM  : 65,863,398
+Alloc Attempts: 602,050,081 Success: 100.00%
+Evict Attempts: 439,822,650 Success: 99.99%
+RAM Evictions : 439,792,622
+Fraction of pool 0 used : 0.99
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     157.00 us
+NVM Read  Latency    p99      :     832.00 us
+NVM Read  Latency    p999     :    2620.00 us
+NVM Read  Latency    p9999    :    7045.00 us
+NVM Read  Latency    p99999   :    8585.00 us
+NVM Read  Latency    p999999  :    8739.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     127.00 us
+NVM Write Latency    p99      :     575.00 us
+NVM Write Latency    p999     :    2079.00 us
+NVM Write Latency    p9999    :    7224.00 us
+NVM Write Latency    p99999   :    9102.00 us
+NVM Write Latency    p999999  :    9290.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 418.95 GB
+NVM bytes written (logical)   :  88.29 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.75
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     439,793,087, Success   :  19.01%, Clean   :   0.00%, AbortsFromDel   : 63,794,172, AbortsFromGet   :       47
+NVM Evicts    :              14, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     450,315,468 Skipped Deletes:   2.31%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 356169490
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 602.05 million
+Total sets: 602,046,987
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,945/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 4.15 million (parse error: 0)
+
+04:44:41     628.83M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,524,326
+Items in NVM  : 68,412,854
+Alloc Attempts: 628,830,353 Success: 100.00%
+Evict Attempts: 460,021,787 Success: 99.99%
+RAM Evictions : 459,987,895
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     154.00 us
+NVM Read  Latency    p99      :     850.00 us
+NVM Read  Latency    p999     :    2707.00 us
+NVM Read  Latency    p9999    :    7444.00 us
+NVM Read  Latency    p99999   :    9072.00 us
+NVM Read  Latency    p999999  :    9235.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     587.00 us
+NVM Write Latency    p999     :    2153.00 us
+NVM Write Latency    p9999    :    7487.00 us
+NVM Write Latency    p99999   :    9429.00 us
+NVM Write Latency    p999999  :    9623.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 437.75 GB
+NVM bytes written (logical)   :  91.99 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.76
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     459,988,511, Success   :  18.95%, Clean   :   0.00%, AbortsFromDel   : 67,691,254, AbortsFromGet   :       47
+NVM Evicts    :              17, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     470,512,837 Skipped Deletes:   2.21%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 372827276
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 628.83 million
+Total sets: 628,827,057
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,520/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 4.34 million (parse error: 0)
+
+04:45:41     656.18M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,525,027
+Items in NVM  : 71,005,081
+Alloc Attempts: 656,186,788 Success: 100.00%
+Evict Attempts: 480,428,326 Success: 99.99%
+RAM Evictions : 480,390,341
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     153.00 us
+NVM Read  Latency    p99      :     800.00 us
+NVM Read  Latency    p999     :    2669.00 us
+NVM Read  Latency    p9999    :    7721.00 us
+NVM Read  Latency    p99999   :    9544.00 us
+NVM Read  Latency    p999999  :    9726.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     126.00 us
+NVM Write Latency    p99      :     560.00 us
+NVM Write Latency    p999     :    2072.00 us
+NVM Write Latency    p9999    :    8084.00 us
+NVM Write Latency    p99999   :   10286.00 us
+NVM Write Latency    p999999  :   10507.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 456.56 GB
+NVM bytes written (logical)   :  95.71 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.77
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     480,391,320, Success   :  18.89%, Clean   :   0.00%, AbortsFromDel   : 71,626,267, AbortsFromGet   :       47
+NVM Evicts    :              25, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     490,916,354 Skipped Deletes:   2.12%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 389666419
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 656.18 million
+Total sets: 656,182,328
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,531/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 4.52 million (parse error: 0)
+
+04:46:41     683.57M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,526,561
+Items in NVM  : 73,537,270
+Alloc Attempts: 683,574,830 Success: 100.00%
+Evict Attempts: 500,903,517 Success: 99.99%
+RAM Evictions : 500,862,673
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     152.00 us
+NVM Read  Latency    p99      :     816.00 us
+NVM Read  Latency    p999     :    2653.00 us
+NVM Read  Latency    p9999    :    8156.00 us
+NVM Read  Latency    p99999   :   10096.00 us
+NVM Read  Latency    p999999  :   10290.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     563.00 us
+NVM Write Latency    p999     :    2122.00 us
+NVM Write Latency    p9999    :    8825.00 us
+NVM Write Latency    p99999   :   11324.00 us
+NVM Write Latency    p999999  :   11574.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 475.27 GB
+NVM bytes written (logical)   :  99.34 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.78
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     500,862,912, Success   :  18.82%, Clean   :   0.00%, AbortsFromDel   : 75,727,664, AbortsFromGet   :       47
+NVM Evicts    :              43, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     511,389,473 Skipped Deletes:   2.03%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 406609148
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 683.57 million
+Total sets: 683,571,074
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,564/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 4.71 million (parse error: 0)
+
+04:47:41     710.79M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,433
+Items in NVM  : 75,990,351
+Alloc Attempts: 710,790,960 Success: 100.00%
+Evict Attempts: 521,277,076 Success: 99.99%
+RAM Evictions : 521,231,988
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     162.00 us
+NVM Read  Latency    p99      :     889.00 us
+NVM Read  Latency    p999     :    2798.00 us
+NVM Read  Latency    p9999    :    8830.00 us
+NVM Read  Latency    p99999   :   10983.00 us
+NVM Read  Latency    p999999  :   11198.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     129.00 us
+NVM Write Latency    p99      :     607.00 us
+NVM Write Latency    p999     :    2182.00 us
+NVM Write Latency    p9999    :    9211.00 us
+NVM Write Latency    p99999   :   11850.00 us
+NVM Write Latency    p999999  :   12114.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 493.41 GB
+NVM bytes written (logical)   : 102.80 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.80
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     521,232,906, Success   :  18.74%, Clean   :   0.00%, AbortsFromDel   : 79,763,581, AbortsFromGet   :       47
+NVM Evicts    :              67, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     531,760,341 Skipped Deletes:   1.96%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 423548505
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 710.79 million
+Total sets: 710,787,810
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,484/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 4.90 million (parse error: 0)
+
+04:48:41     738.19M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,183
+Items in NVM  : 78,459,692
+Alloc Attempts: 738,188,747 Success: 100.00%
+Evict Attempts: 541,646,811 Success: 99.99%
+RAM Evictions : 541,597,977
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     149.00 us
+NVM Read  Latency    p99      :     797.00 us
+NVM Read  Latency    p999     :    2691.00 us
+NVM Read  Latency    p9999    :    9337.00 us
+NVM Read  Latency    p99999   :   11831.00 us
+NVM Read  Latency    p999999  :   12081.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     123.00 us
+NVM Write Latency    p99      :     548.00 us
+NVM Write Latency    p999     :    2121.00 us
+NVM Write Latency    p9999    :   10139.00 us
+NVM Write Latency    p99999   :   13227.00 us
+NVM Write Latency    p999999  :   13536.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 512.01 GB
+NVM bytes written (logical)   : 106.31 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.82
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     541,598,634, Success   :  18.68%, Clean   :   0.00%, AbortsFromDel   : 84,015,187, AbortsFromGet   :       47
+NVM Evicts    :             100, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     552,125,833 Skipped Deletes:   1.88%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 440419583
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 738.19 million
+Total sets: 738,185,595
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,520/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 5.09 million (parse error: 0)
+
+04:49:41     765.28M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,562
+Items in NVM  : 80,849,547
+Alloc Attempts: 765,284,390 Success: 100.00%
+Evict Attempts: 561,876,777 Success: 99.99%
+RAM Evictions : 561,824,323
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     154.00 us
+NVM Read  Latency    p99      :     856.00 us
+NVM Read  Latency    p999     :    2749.00 us
+NVM Read  Latency    p9999    :   11008.00 us
+NVM Read  Latency    p99999   :   14210.00 us
+NVM Read  Latency    p999999  :   14530.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     126.00 us
+NVM Write Latency    p99      :     587.00 us
+NVM Write Latency    p999     :    2209.00 us
+NVM Write Latency    p9999    :   12122.00 us
+NVM Write Latency    p99999   :   16035.00 us
+NVM Write Latency    p999999  :   16426.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 530.30 GB
+NVM bytes written (logical)   : 109.96 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.82
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     561,824,663, Success   :  18.61%, Clean   :   0.00%, AbortsFromDel   : 88,302,852, AbortsFromGet   :       47
+NVM Evicts    :             136, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     572,352,226 Skipped Deletes:   1.82%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 457249183
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 765.28 million
+Total sets: 765,280,979
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,375/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 5.27 million (parse error: 0)
+
+04:50:41     792.66M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,400
+Items in NVM  : 83,269,766
+Alloc Attempts: 792,664,803 Success: 100.00%
+Evict Attempts: 582,226,995 Success: 99.99%
+RAM Evictions : 582,170,555
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     147.00 us
+NVM Read  Latency    p99      :     777.00 us
+NVM Read  Latency    p999     :    2576.00 us
+NVM Read  Latency    p9999    :   12972.00 us
+NVM Read  Latency    p99999   :   17150.00 us
+NVM Read  Latency    p999999  :   17567.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     123.00 us
+NVM Write Latency    p99      :     541.00 us
+NVM Write Latency    p999     :    2085.00 us
+NVM Write Latency    p9999    :   14203.00 us
+NVM Write Latency    p99999   :   19005.00 us
+NVM Write Latency    p999999  :   19485.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 548.88 GB
+NVM bytes written (logical)   : 113.58 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.83
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     582,171,212, Success   :  18.56%, Clean   :   0.00%, AbortsFromDel   : 92,701,734, AbortsFromGet   :       47
+NVM Evicts    :             180, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     592,698,610 Skipped Deletes:   1.76%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 474143215
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 792.66 million
+Total sets: 792,660,003
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,401/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 5.46 million (parse error: 0)
+
+04:51:41     819.95M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,203
+Items in NVM  : 85,653,360
+Alloc Attempts: 819,949,279 Success: 100.00%
+Evict Attempts: 602,472,211 Success: 99.99%
+RAM Evictions : 602,412,873
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     152.00 us
+NVM Read  Latency    p99      :     819.00 us
+NVM Read  Latency    p999     :    2768.00 us
+NVM Read  Latency    p9999    :   15276.00 us
+NVM Read  Latency    p99999   :   20227.00 us
+NVM Read  Latency    p999999  :   20722.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     564.00 us
+NVM Write Latency    p999     :    2227.00 us
+NVM Write Latency    p9999    :   17514.00 us
+NVM Write Latency    p99999   :   23702.00 us
+NVM Write Latency    p999999  :   24321.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 567.23 GB
+NVM bytes written (logical)   : 117.30 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.84
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     602,413,375, Success   :  18.49%, Clean   :   0.00%, AbortsFromDel   : 97,055,566, AbortsFromGet   :       47
+NVM Evicts    :             237, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     612,940,574 Skipped Deletes:   1.70%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 490998859
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 819.95 million
+Total sets: 819,945,714
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,375/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 5.65 million (parse error: 0)
+
+04:52:41     847.10M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,424
+Items in NVM  : 88,044,259
+Alloc Attempts: 847,102,814 Success: 100.00%
+Evict Attempts: 622,824,909 Success: 99.99%
+RAM Evictions : 622,762,056
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     145.00 us
+NVM Read  Latency    p99      :     774.00 us
+NVM Read  Latency    p999     :    2672.00 us
+NVM Read  Latency    p9999    :   16766.00 us
+NVM Read  Latency    p99999   :   22397.00 us
+NVM Read  Latency    p999999  :   22960.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     121.00 us
+NVM Write Latency    p99      :     534.00 us
+NVM Write Latency    p999     :    2095.00 us
+NVM Write Latency    p9999    :   17570.00 us
+NVM Write Latency    p99999   :   23966.00 us
+NVM Write Latency    p999999  :   24606.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 585.70 GB
+NVM bytes written (logical)   : 120.87 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.85
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     622,762,520, Success   :  18.44%, Clean   :   0.00%, AbortsFromDel   : 101,633,823, AbortsFromGet   :       47
+NVM Evicts    :             305, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     633,289,948 Skipped Deletes:   1.64%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 507912923
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 847.10 million
+Total sets: 847,099,220
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,279/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 5.84 million (parse error: 0)
+
+04:53:41     874.42M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,568
+Items in NVM  : 90,485,527
+Alloc Attempts: 874,422,332 Success: 100.00%
+Evict Attempts: 643,280,737 Success: 99.99%
+RAM Evictions : 643,214,925
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     142.00 us
+NVM Read  Latency    p99      :     724.00 us
+NVM Read  Latency    p999     :    2974.00 us
+NVM Read  Latency    p9999    :   16373.00 us
+NVM Read  Latency    p99999   :   21683.00 us
+NVM Read  Latency    p999999  :   22214.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     120.00 us
+NVM Write Latency    p99      :     499.00 us
+NVM Write Latency    p999     :    2306.00 us
+NVM Write Latency    p9999    :   19111.00 us
+NVM Write Latency    p99999   :   25847.00 us
+NVM Write Latency    p999999  :   26520.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 604.44 GB
+NVM bytes written (logical)   : 124.39 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.86
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     643,215,311, Success   :  18.40%, Clean   :   0.00%, AbortsFromDel   : 105,878,902, AbortsFromGet   :       47
+NVM Evicts    :             393, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     653,742,871 Skipped Deletes:   1.59%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 524865892
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 874.42 million
+Total sets: 874,419,637
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,277/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 6.03 million (parse error: 0)
+
+04:54:41     901.69M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,442
+Items in NVM  : 92,751,928
+Alloc Attempts: 901,696,501 Success: 100.00%
+Evict Attempts: 663,660,124 Success: 99.99%
+RAM Evictions : 663,589,561
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     147.00 us
+NVM Read  Latency    p99      :     808.00 us
+NVM Read  Latency    p999     :    3169.00 us
+NVM Read  Latency    p9999    :   16795.00 us
+NVM Read  Latency    p99999   :   22294.00 us
+NVM Read  Latency    p999999  :   22844.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     122.00 us
+NVM Write Latency    p99      :     546.00 us
+NVM Write Latency    p999     :    2460.00 us
+NVM Write Latency    p9999    :   19227.00 us
+NVM Write Latency    p99999   :   25966.00 us
+NVM Write Latency    p999999  :   26640.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 622.84 GB
+NVM bytes written (logical)   : 127.97 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.87
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     663,589,902, Success   :  18.34%, Clean   :   0.00%, AbortsFromDel   : 110,394,741, AbortsFromGet   :       51
+NVM Evicts    :             508, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     674,117,330 Skipped Deletes:   1.54%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 541881607
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 901.69 million
+Total sets: 901,689,896
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,249/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 6.21 million (parse error: 0)
+
+04:55:41     928.91M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,521
+Items in NVM  : 94,976,510
+Alloc Attempts: 928,912,625 Success: 100.00%
+Evict Attempts: 684,027,973 Success: 99.99%
+RAM Evictions : 683,953,740
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     145.00 us
+NVM Read  Latency    p99      :     812.00 us
+NVM Read  Latency    p999     :    2858.00 us
+NVM Read  Latency    p9999    :   16209.00 us
+NVM Read  Latency    p99999   :   21480.00 us
+NVM Read  Latency    p999999  :   22008.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     121.00 us
+NVM Write Latency    p99      :     553.00 us
+NVM Write Latency    p999     :    2217.00 us
+NVM Write Latency    p9999    :   18486.00 us
+NVM Write Latency    p99999   :   25078.00 us
+NVM Write Latency    p999999  :   25737.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 641.44 GB
+NVM bytes written (logical)   : 131.65 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.87
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     683,954,444, Success   :  18.29%, Clean   :   0.00%, AbortsFromDel   : 115,084,404, AbortsFromGet   :       51
+NVM Evicts    :             676, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     694,481,957 Skipped Deletes:   1.50%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 558893143
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 928.91 million
+Total sets: 928,908,372
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,196/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 6.40 million (parse error: 0)
+
+04:56:41     955.95M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,403
+Items in NVM  : 97,014,970
+Alloc Attempts: 955,949,293 Success: 100.00%
+Evict Attempts: 704,393,561 Success: 99.99%
+RAM Evictions : 704,315,961
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     161.00 us
+NVM Read  Latency    p99      :     929.00 us
+NVM Read  Latency    p999     :    3220.00 us
+NVM Read  Latency    p9999    :   16510.00 us
+NVM Read  Latency    p99999   :   21871.00 us
+NVM Read  Latency    p999999  :   22407.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     128.00 us
+NVM Write Latency    p99      :     624.00 us
+NVM Write Latency    p999     :    2565.00 us
+NVM Write Latency    p9999    :   19608.00 us
+NVM Write Latency    p99999   :   26479.00 us
+NVM Write Latency    p999999  :   27166.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 658.91 GB
+NVM bytes written (logical)   : 134.93 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.88
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     704,316,324, Success   :  18.20%, Clean   :   0.00%, AbortsFromDel   : 120,178,158, AbortsFromGet   :       53
+NVM Evicts    :             852, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     714,843,728 Skipped Deletes:   1.46%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 576106906
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 955.95 million
+Total sets: 955,946,273
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,062/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 6.59 million (parse error: 0)
+
+04:57:41     983.16M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,530
+Items in NVM  : 99,019,891
+Alloc Attempts: 983,167,542 Success: 100.00%
+Evict Attempts: 724,864,162 Success: 99.99%
+RAM Evictions : 724,782,319
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     153.00 us
+NVM Read  Latency    p99      :     849.00 us
+NVM Read  Latency    p999     :    3284.00 us
+NVM Read  Latency    p9999    :   19283.00 us
+NVM Read  Latency    p99999   :   25690.00 us
+NVM Read  Latency    p999999  :   26331.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     125.00 us
+NVM Write Latency    p99      :     559.00 us
+NVM Write Latency    p999     :    2558.00 us
+NVM Write Latency    p9999    :   21809.00 us
+NVM Write Latency    p99999   :   29668.00 us
+NVM Write Latency    p999999  :   30454.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 676.61 GB
+NVM bytes written (logical)   : 138.26 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.89
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     724,783,093, Success   :  18.13%, Clean   :   0.00%, AbortsFromDel   : 125,765,912, AbortsFromGet   :       62
+NVM Evicts    :           1,099, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     735,310,645 Skipped Deletes:   1.41%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 593410839
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 983.16 million
+Total sets: 983,162,208
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,017/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 6.78 million (parse error: 0)
+
+04:58:41    1010.46M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,416
+Items in NVM  : 100,941,621
+Alloc Attempts: 1,010,468,122 Success: 100.00%
+Evict Attempts: 745,409,186 Success: 99.99%
+RAM Evictions : 745,324,984
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      40.00 us
+NVM Read  Latency    p90      :     155.00 us
+NVM Read  Latency    p99      :     853.00 us
+NVM Read  Latency    p999     :    3255.00 us
+NVM Read  Latency    p9999    :   21854.00 us
+NVM Read  Latency    p99999   :   29468.00 us
+NVM Read  Latency    p999999  :   30229.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      40.00 us
+NVM Write Latency    p90      :     127.00 us
+NVM Write Latency    p99      :     569.00 us
+NVM Write Latency    p999     :    2568.00 us
+NVM Write Latency    p9999    :   24577.00 us
+NVM Write Latency    p99999   :   33756.00 us
+NVM Write Latency    p999999  :   34674.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 693.94 GB
+NVM bytes written (logical)   : 141.43 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.91
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     745,325,412, Success   :  18.04%, Clean   :   0.00%, AbortsFromDel   : 131,756,201, AbortsFromGet   :       66
+NVM Evicts    :           1,355, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     755,852,834 Skipped Deletes:   1.38%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 610866022
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1010.46 million
+Total sets: 1,010,464,368
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,014/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 6.97 million (parse error: 0)
+
+04:59:41    1037.81M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,528
+Items in NVM  : 102,759,640
+Alloc Attempts: 1,037,816,207 Success: 100.00%
+Evict Attempts: 765,866,951 Success: 99.99%
+RAM Evictions : 765,779,616
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      40.00 us
+NVM Read  Latency    p90      :     161.00 us
+NVM Read  Latency    p99      :     879.00 us
+NVM Read  Latency    p999     :    3277.00 us
+NVM Read  Latency    p9999    :   23366.00 us
+NVM Read  Latency    p99999   :   31727.00 us
+NVM Read  Latency    p999999  :   32563.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      39.00 us
+NVM Write Latency    p90      :     129.00 us
+NVM Write Latency    p99      :     587.00 us
+NVM Write Latency    p999     :    2596.00 us
+NVM Write Latency    p9999    :   25845.00 us
+NVM Write Latency    p99999   :   35327.00 us
+NVM Write Latency    p999999  :   36276.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 710.99 GB
+NVM bytes written (logical)   : 144.58 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.92
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     765,779,869, Success   :  17.95%, Clean   :   0.00%, AbortsFromDel   : 138,302,999, AbortsFromGet   :       69
+NVM Evicts    :           1,645, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     776,307,404 Skipped Deletes:   1.34%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 628328567
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1037.81 million
+Total sets: 1,037,812,068
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,031/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 7.16 million (parse error: 0)
+
+05:00:41    1065.54M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,402
+Items in NVM  : 104,615,467
+Alloc Attempts: 1,065,541,960 Success: 100.00%
+Evict Attempts: 786,369,411 Success: 99.99%
+RAM Evictions : 786,278,714
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     154.00 us
+NVM Read  Latency    p99      :     858.00 us
+NVM Read  Latency    p999     :    2976.00 us
+NVM Read  Latency    p9999    :   25678.00 us
+NVM Read  Latency    p99999   :   35202.00 us
+NVM Read  Latency    p999999  :   36155.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     126.00 us
+NVM Write Latency    p99      :     586.00 us
+NVM Write Latency    p999     :    2428.00 us
+NVM Write Latency    p9999    :   26451.00 us
+NVM Write Latency    p99999   :   36191.00 us
+NVM Write Latency    p999999  :   37165.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 728.32 GB
+NVM bytes written (logical)   : 147.75 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.93
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     786,279,228, Success   :  17.87%, Clean   :   0.00%, AbortsFromDel   : 144,889,394, AbortsFromGet   :       72
+NVM Evicts    :           1,983, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     796,806,632 Skipped Deletes:   1.31%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 645774940
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1065.54 million
+Total sets: 1,065,540,022
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,210/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 7.35 million (parse error: 0)
+
+05:01:41    1093.11M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,312
+Items in NVM  : 106,352,046
+Alloc Attempts: 1,093,113,072 Success: 100.00%
+Evict Attempts: 806,860,253 Success: 99.99%
+RAM Evictions : 806,765,356
+Fraction of pool 0 used : 0.99
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      39.00 us
+NVM Read  Latency    p90      :     166.00 us
+NVM Read  Latency    p99      :     910.00 us
+NVM Read  Latency    p999     :    2826.00 us
+NVM Read  Latency    p9999    :   26138.00 us
+NVM Read  Latency    p99999   :   35804.00 us
+NVM Read  Latency    p999999  :   36771.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     131.00 us
+NVM Write Latency    p99      :     624.00 us
+NVM Write Latency    p999     :    2378.00 us
+NVM Write Latency    p9999    :   30549.00 us
+NVM Write Latency    p99999   :   42313.00 us
+NVM Write Latency    p999999  :   43489.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 745.18 GB
+NVM bytes written (logical)   : 150.86 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.94
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     806,765,884, Success   :  17.78%, Clean   :   0.00%, AbortsFromDel   : 151,955,278, AbortsFromGet   :       73
+NVM Evicts    :           2,373, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     817,293,119 Skipped Deletes:   1.27%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 663325695
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1093.11 million
+Total sets: 1,093,108,784
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,314/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 7.54 million (parse error: 0)
+
+05:02:41    1120.79M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,561
+Items in NVM  : 108,204,584
+Alloc Attempts: 1,120,797,520 Success: 100.00%
+Evict Attempts: 827,435,913 Success: 99.99%
+RAM Evictions : 827,337,865
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     150.00 us
+NVM Read  Latency    p99      :     789.00 us
+NVM Read  Latency    p999     :    2773.00 us
+NVM Read  Latency    p9999    :   30809.00 us
+NVM Read  Latency    p99999   :   42605.00 us
+NVM Read  Latency    p999999  :   43785.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     124.00 us
+NVM Write Latency    p99      :     552.00 us
+NVM Write Latency    p999     :    2215.00 us
+NVM Write Latency    p9999    :   35113.00 us
+NVM Write Latency    p99999   :   48758.00 us
+NVM Write Latency    p999999  :   50123.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 762.64 GB
+NVM bytes written (logical)   : 154.03 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.95
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     827,338,408, Success   :  17.71%, Clean   :   0.00%, AbortsFromDel   : 158,840,544, AbortsFromGet   :       73
+NVM Evicts    :           2,844, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     837,865,961 Skipped Deletes:   1.24%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 680824614
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1120.79 million
+Total sets: 1,120,794,290
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,458/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 7.72 million (parse error: 0)
+
+05:03:41    1148.19M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,556
+Items in NVM  : 109,977,139
+Alloc Attempts: 1,148,191,036 Success: 100.00%
+Evict Attempts: 847,852,311 Success: 99.99%
+RAM Evictions : 847,751,546
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     152.00 us
+NVM Read  Latency    p99      :     855.00 us
+NVM Read  Latency    p999     :    2960.00 us
+NVM Read  Latency    p9999    :   33343.00 us
+NVM Read  Latency    p99999   :   45938.00 us
+NVM Read  Latency    p999999  :   47198.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      38.00 us
+NVM Write Latency    p90      :     123.00 us
+NVM Write Latency    p99      :     589.00 us
+NVM Write Latency    p999     :    2371.00 us
+NVM Write Latency    p9999    :   39690.00 us
+NVM Write Latency    p99999   :   55437.00 us
+NVM Write Latency    p999999  :   57012.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 779.75 GB
+NVM bytes written (logical)   : 157.15 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.96
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     847,751,948, Success   :  17.64%, Clean   :   0.00%, AbortsFromDel   : 165,742,569, AbortsFromGet   :       73
+NVM Evicts    :           3,353, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     858,279,518 Skipped Deletes:   1.21%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 698253756
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1148.19 million
+Total sets: 1,148,186,561
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,482/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 7.91 million (parse error: 0)
+
+05:04:41    1175.97M ops completed. Hit Ratio   0.00% (RAM   0.00%, NVM   0.00%)
+== Allocator Stats ==
+Items in RAM  : 10,527,672
+Items in NVM  : 111,736,135
+Alloc Attempts: 1,175,975,231 Success: 100.00%
+Evict Attempts: 868,463,400 Success: 99.99%
+RAM Evictions : 868,359,038
+Fraction of pool 0 used : 1.00
+RAM Hit Ratio : 100.00%
+NVM Hit Ratio : 100.00%
+RAM eviction rejects expiry : 0
+RAM eviction rejects clean : 0
+NVM Read  Latency    p50      :      38.00 us
+NVM Read  Latency    p90      :     143.00 us
+NVM Read  Latency    p99      :     830.00 us
+NVM Read  Latency    p999     :    2901.00 us
+NVM Read  Latency    p9999    :   38800.00 us
+NVM Read  Latency    p99999   :   54156.00 us
+NVM Read  Latency    p999999  :   55691.00 us
+NVM Read  Latency    p100     :       0.00 us
+NVM Write Latency    p50      :      37.00 us
+NVM Write Latency    p90      :     119.00 us
+NVM Write Latency    p99      :     564.00 us
+NVM Write Latency    p999     :    2427.00 us
+NVM Write Latency    p9999    :   42933.00 us
+NVM Write Latency    p99999   :   59851.00 us
+NVM Write Latency    p999999  :   61543.00 us
+NVM Write Latency    p100     :       0.00 us
+NVM bytes written (physical)  : 797.04 GB
+NVM bytes written (logical)   : 160.29 GB
+NVM bytes written (nand)      :   0.00 GB
+NVM app write amplification   :   4.97
+NVM dev write amplification   :   0.00
+NVM Gets      :               0, Coalesced :   0.00%
+NVM Puts      :     868,359,550, Success   :  17.56%, Clean   :   0.00%, AbortsFromDel   : 172,933,825, AbortsFromGet   :       73
+NVM Evicts    :           4,022, Clean     :   0.00%, Unclean :       0, Double          :        0
+NVM Deletes   :     878,887,221 Skipped Deletes:   1.18%
+Released 2 slabs
+  Moves     : attempts:          0, success:   0.00%
+  Evictions : attempts:     65,689, success: 100.00%
+Total eviction executed 715855456
+== Hit Ratio Stats Since Last ==
+== Throughput Stats ==
+Total Ops : 1175.97 million
+Total sets: 1,175,971,912
+get       :         0/s, success   :   0.00%
+couldExist:         0/s, success   :   0.00%
+set       :   455,655/s, success   : 100.00%
+del       :         0/s, found     :   0.00%
+
+== KVReplayGenerator Stats ==
+Total Processed Samples: 8.10 million (parse error: 0)
+
