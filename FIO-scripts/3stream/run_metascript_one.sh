@@ -15,6 +15,7 @@ workload_dir=("fdp" )
 
 #superworkload_dir=( "zipf_2.2" "zipf_1.2" "zoned" )
 superworkload_dir=("zipf_1.2")
+superworkload_dir=("zoned")
 workload_file=("py_randwritefiles_bs4K_QD4_fdp")
 #echo  "grep -rn rw=randwrite"
 #grep -rn "rw=randwrite"
@@ -38,8 +39,8 @@ sudo ./trim.sh > /dev/null
 sleep 5
 sudo ./5.get_waf.sh &
 wakeup_pid=$!
-sudo ./6.get_bw.sh &
-wakeup_pid2=$!
+#sudo ./6.get_bw.sh &
+#wakeup_pid2=$!
 echo "  get_waf.sh PID:  $wakeup_pid"
 echo "  get_bw.sh PID :  $wakeup_pid2"
 
