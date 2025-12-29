@@ -163,19 +163,15 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
 #### Fig 11
 
 - VM
-   * Figure 11, run `./run_fdp_WARP4.sh`
+   * In `build-femu` dir, run `./run_fdp_WARP4.sh`
    * ssh to VM `ssh -P 18080 femu@localhost`
-   * `git clone https://github.com/MoatLab/fdp-exp-scripts;` 
-   * `cd fdp-exp-scripts/FIO-scripts`
-   * `./run-fig11.sh`
+   * `git clone https://github.com/MoatLab/fdp-exp-scripts;` (skip if you have done this)
+   * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/1stream/`
+   * `sudo nohup ./run-fig11.sh &` or `sudo ./run-fig11.sh` (Ctrl^C if goes wrong)
    * Experiment will take ~2hours.
-   * 
-
-- In host machine,
-   * ``` git clone ``` this repo
-   * `cd` to this repo 
-   * `rsync vm:~/FIXME/FIO-scripts/1stream/nvme0_waf_1sec.txt .`
-   * launch fig11.ipynb and reproduce. Check whether the script captures the result file from ['No such file/dir'] to [Check!]
+   * After the experiment, `popd`
+   * Go `python3 Fig11.py` and check `val-1stream-AE.jpeg` file for Fig11. (Check Fig11.ipynb if you prefer this)
+ 
 
 ------
 TBD from here
