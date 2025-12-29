@@ -2,7 +2,7 @@
 ```
 Dear FAST artifact evaluation committees,
 
-I'm Inho Song, one of the authors of 'Characterizing and Emulating FDP SSDs with WARP' and this is the doc for the artifact reproduction document.
+I'm one of the authors of 'Characterizing and Emulating FDP SSDs with WARP' and this is the doc for the artifact reproduction document.
 We hope this document helps to reproduce the results of WARP, given that this is also an open-source contribution for the community.
 
 The results of this paper convey both real SSDs and WARP write amplification results.
@@ -35,6 +35,8 @@ sudo ./fdp_setup_nvme-cli.sh /dev/nvmeX
 
 # Phase 0. Prerequisite(Inside the VM)
 **Note. If you are using the provided VM image, skip this step.**
+## meson
+
 ## libnvme
 I'm using `nvme fdp ` command to get the write amplification results
 to use, libnvme should be v1.5
@@ -46,7 +48,39 @@ wget https://github.com/linux-nvme/libnvme/archive/refs/tags/v1.5.tar.gz
 tar -xvf v1.5.tar.gz; cd libnvme-1.5/;
 ```
 ```
-meson setup .build; meson compile -C .build; meson install -C .build;
+meson setup .build; meson compile -C .build; sudo meson install -C .build;
+```
+```
+sudo cp /usr/local/lib/x86_64-linux-gnu/libnvme.so.1.5.0 /usr/lib/.
+sudo cp /usr/local/lib/x86_64-linux-gnu/libnvme-mi.so.1.5.0 /usr/lib/.
+sudo ln -sf /usr/lib/libnvme-mi.so.1.5.0 /usr/lib/libnvme-mi.so.1
+sudo ln -sf /usr/lib/libnvme.so.1.5.0 /usr/lib/libnvme.so.1
+sudo ln -sf /usr/lib/libnvme.so.1 /usr/lib/libnvme.so
+sudo ln -sf /usr/lib/libnvme-mi.so.1 /usr/lib/libnvme-mi.s
+sudo ln -sf /usr/lib/libnvme-mi.so.1 /usr/lib/libnvme-mi.so
+```
+## nvme-cli
+```
+wget https://github.com/linux-nvme/nvme-cli/archive/refs/tags/v2.5.tar.gz
+```
+```
+tar -xvf v2.5.tar.gz ; cd nvme-cli-2.5/;
+```
+```
+meson setup .build; meson compile -C .build; sudo meson install -C .build 
+```
+```
+sudo cp .build/nvme /usr/sbin/nvme
+```
+check nvme-cli version
+```
+nvme --version
+```
+result should be
+```
+femu@fvm:~/libs/nvme-cli-2.5/.build$ nvme --version
+nvme version 2.5 (git 2.5)
+libnvme version 1.5 (git 1.5)
 ```
 
 ## liburing 
@@ -82,7 +116,7 @@ tar -xvf fio-3.36.tar.gz ; cd fio-fio-3.36/
 ```
 ./configure ;
 make;
-make install;
+sudo make install;
 ```
 
 ## Kernel
@@ -130,10 +164,12 @@ These figures help to comprehend how to use WARP and plot the figures in the pap
 
 - VM
    * Figure 11, run `./run_fdp_WARP4.sh`
-   * ssh to VM `ssh -P 18080 warp@localhost`
-   * `cd FIO-scripts`
+   * ssh to VM `ssh -P 18080 femu@localhost`
+   * `git clone https://github.com/MoatLab/fdp-exp-scripts;` 
+   * `cd fdp-exp-scripts/FIO-scripts`
    * `./run-fig11.sh`
    * Experiment will take ~2hours.
+   * 
 
 - In host machine,
    * ``` git clone ``` this repo
