@@ -64,7 +64,7 @@
   * `sudo ./run-fig14.sh`. (`sudo nohup ./run-fig14.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
   * Experiment will take ~12 hours(4exp*3hr).
   * `popd`(or `cd ~/fdp-exp-scripts`) and run `python3 Fig14.py`.
-  * TBD 
+  *  Check `3Syn_CylonA2.jpeg` is generated in the current directory.
 
 
 #### (Optional) II vs PI (Fig 17 and 18)
