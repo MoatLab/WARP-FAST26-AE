@@ -21,9 +21,11 @@
 
 #### One stream write experiment (Fig 11)
 
-- VM
+- Host
    * In `build-femu` dir, run `./run-fdp-WARP4.sh`
    * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -P 18080 femu@localhost`
+
+- VM
    * `git clone https://github.com/MoatLab/fdp-exp-scripts;` (skip if you have done this)
    * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
    * `sudo nohup ./run-fig11.sh &` or `sudo ./run-fig11.sh` (Ctrl^C if goes wrong)
@@ -32,33 +34,42 @@
  
 #### Three stream write experiment (Fig 13,15, and 16)
 (shutdown previous VM if the previous one is alive.)
-- VM
+- Host
    * In `build-femu` dir, run `./run-fdp-RU256.sh`
    * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+ 
+- VM
    * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
    * `sudo ./run-fig1316.sh`. (`sudo nohup ./run-fig1316.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
    * Experiment will take ~3hours.
    * `popd`(or `cd ~/fdp-exp-scripts`) and run `python3 Fig13.py`.
    * check `3stream_WARP_AE.jpeg` file for Fig13. (Check Fig13.ipynb if you prefer this)
 
-- Fig15&16: move `log` file in Host to VM
+- Host: move `log` file in Host to VM (Fig15&16)
    * In the host machine(outside VM), locate to `build-femu` directory. 
    * `rsync log vm:~/fdp-exp-scripts/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
    * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+ 
+- VM
    * `cd ~/fdp-exp-scripts` and run `python3 Fig1516.py`
    * Check `fdp_3syn_investigation-HBMWDLWA-AE.jpeg` and `Noisy.jpeg`. (Check Fig131516.ipynb if you prefer this)
  
 #### Three stream write experiment (Fig 14)
 (shutdown previous VM if the previous one is alive.)
-- VM
-  * In `build-femu` dir, run `./run-fdp-WARPA2.sh`
+- Host
+  * In `build-femu` dir, run `./run-fdp-RU128-WARPA2.sh`
   * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+- VM
   * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
   * `sudo ./run-fig14.sh`. (`sudo nohup ./run-fig14.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
-  * Experiment will take ~2*3hours.
-  * 
+  * Experiment will take ~12 hours(4exp*3hr).
+  * `popd`(or `cd ~/fdp-exp-scripts`) and run `python3 Fig14.py`.
+  * TBD 
 
 
+#### (Optional) II vs PI (Fig 17 and 18)
+Proceed this step if the experiment results are insufficient for the AE 'Result reproduced' badges.
+TBD 
 - For Figure 17 and 18, run following four commands and each command will take 4 hours
 - "./run_fdp_WARP256II10.sh"
 - "./run_fdp_WARP256PI10.sh"
@@ -66,11 +77,7 @@
 - "./run_fdp_WARP256P17.sh"
 
 
-
-
-
-
 ## Phase 3: Generate figures
-
+TBD 
 - Once you have run all the experiments, go into the WARP repo directory that you cloned in the beginning and run <python3 -m notebook> and click on the jupyter notebook WARP-AE-FAST26-1.ipynb
 - Start running all cells one by one
