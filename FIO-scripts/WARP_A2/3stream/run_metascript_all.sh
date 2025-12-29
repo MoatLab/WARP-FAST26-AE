@@ -2,44 +2,34 @@
 size_tag="K"
 #cmd="python3 w_fiogen.py"
 
-#---------------------#
-echo "#---------------------#"
-date
-echo "  Running $0 $(pwd)"
-echo "#---------------------#"
-#---------------------#
+current_directory=$(pwd)
+working_dir="${current_directory}/"
+superworkload_dir=( "zoned" "zipf_2.2" "zipf_1.2" "uniform" )
+#superworkload_dir=("zipf_1.2" "zoned" "zipf_2.2" "zoned_QD16" "sq0_90r_zipf_1.2" "sq0_zipf_1.2" )
 
-working_dir=$(pwd)
-##workload_dir=("fdp" "fdp_share" "nofdp" )
-workload_dir=("fdp" )
+workload_dir=("fdp" "fdp_share" "nofdp")
+workload_file=("py_randwritefiles_bs4K_QD4_fdp" "py_randwritefiles_bs4K_QD4_fdp_share" "py_randwritefiles_bs4K_QD4_t0")
 
-#superworkload_dir=( "zipf_2.2" "zipf_1.2" "zoned" )
-superworkload_dir=("zoned")
-workload_file=("py_randwritefiles_bs4K_QD4_fdp")
-#echo  "grep -rn rw=randwrite"
-#grep -rn "rw=randwrite"
+echo  "grep -rn rw=randwrite"
 
 for s in ${!superworkload_dir[@]}
 do
 
 echo "$working_dir/${superworkload_dir[s]}"
+
+pushd .
 cd "$working_dir/${superworkload_dir[s]}"
 
 for i in ${!workload_file[@]}
 do
 
-echo "      #----------------------------#"
-date
-echo "          Running ${superworkload_dir[s]}/${workload_file[i]}  $0"
-echo "      #----------------------------#"
-
 sudo ./trim.sh > /dev/null
 
-sleep 5
+sleep 100
 sudo ./5.get_waf.sh &
 wakeup_pid=$!
-#sudo ./6.get_bw.sh &
-#wakeup_pid2=$!
+sudo ./6.get_bw.sh &
+wakeup_pid2=$!
 echo "  get_waf.sh PID:  $wakeup_pid"
 echo "  get_bw.sh PID :  $wakeup_pid2"
 
@@ -56,8 +46,6 @@ qd=4
 cmd="sudo fio ${workload_file[i]}"
 
 echo "  ${cmd}"
-cat ${workload_file[i]} | grep -n "fdp=1"
-cat ${workload_file[i]} | grep -n "runtime="
 ${cmd} >> 1threadQD${qd}_${bs}${size_tag}write_output
 sleep 0.1
 
@@ -68,16 +56,12 @@ sudo kill $wakeup_pid
 echo "kill $wakeup_pid2"
 sudo kill $wakeup_pid2
 
-
 mv samsung* ./"${workload_dir[i]}"/.
 mv 1thread* ./"${workload_dir[i]}"/.
 
 #fio_generate_plots ${bs}${size_tage} 1threadQD${qd}_${bs}${size_tag}randreadfiles_lat.1.log
-echo "${workload_file[i]} Done "
-
 done
 
+popd
+
 done
-
-
-echo "FIN."

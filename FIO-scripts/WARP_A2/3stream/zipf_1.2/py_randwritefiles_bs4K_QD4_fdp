@@ -17,7 +17,6 @@ fdp_pli=0
 
 [ready1]
 rw=randwrite
-bs=4K
 offset=90%
 size=10%
 norandommap
@@ -36,7 +35,7 @@ time_based=1
 norandommap
 iodepth=1
 numjobs=1
-runtime=18000
+runtime=7200
 fdp_pli=0
 log_avg_msec=100
 write_bw_log=1threadQD4_4Kwrite
@@ -50,12 +49,12 @@ numjobs=1
 bs=4K
 offset=0%
 size=90%
-random_distribution=zoned:80/20:10/20:10/60
+random_distribution=zipf:1.2
 time_based=1
 norandommap
 iodepth=32
 numjobs=1
-runtime=18000
+runtime=7200
 fdp_pli=2
 log_avg_msec=100
 write_bw_log=1threadQD4_4Krandwrite
@@ -72,7 +71,7 @@ time_based=1
 norandommap
 iodepth=32
 numjobs=1
-runtime=18000
+runtime=7200
 fdp_pli=1
 log_avg_msec=100
 write_bw_log=1threadQD4_4Krandwrite
