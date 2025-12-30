@@ -7,7 +7,7 @@
 - VM preparation
    * pull the image with `wget https://people.cs.vt.edu/inhoinno/image/u20s.qcow2.xz`. Run `xz -dv -T0 u20s.qcow2.xz` after download.
    * `mkdir image` and `mv u20s.qcow2 image/.`
-   * Clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and follow the FEMU README instructions.
+   * Clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git`, `cd WARP-earlyaccess`, and follow the FEMU README instructions.
        * 1. Make sure you have installed the necessary libraries for building QEMU. The dependencies can be installed by following the instructions below:
       ```
       mkdir build-femu
