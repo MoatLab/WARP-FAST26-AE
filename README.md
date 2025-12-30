@@ -59,14 +59,14 @@
      meson compile -C .build
      mesonn install -C .build # (This ask sudo privilege)
      ```
-     Check `nvme fdp fdp stats /dev/ng0n1 -e 1` command works after installation.
+     Check `nvme fdp stats /dev/ng0n1 -e 1` command works after installation.
      ```
       femu@fvm:~/libs/nvme-cli-2.5$ sudo nvme fdp stats /dev/ng0n1 -e 1
       Host Bytes with Metadata Written (HBMW): 0
       Media Bytes with Metadata Written (MBMW): 0
       Media Bytes Erased (MBE): 0
      ```
-     Then now ready to begin.
+     Now ready to begin.
 ## Phase 2: experiment run 
 
 #### One stream write experiment (Fig 11)
@@ -117,16 +117,17 @@
 
 
 #### (Optional) II vs PI (Fig 17 and 18)
-Proceed this step if the experiment results are insufficient for the AE 'Result reproduced' badges.
-TBD 
-- For Figure 17 and 18, run following four commands and each command will take 4 hours
-- Host`./run_fdp_WARP256II10.sh` -> 
-- Host `./run_fdp_WARP256PI10.sh` ->
-- Host `./run_fdp_WARP256II7.sh` ->
-- Host `./run_fdp_WARP256P17.sh` ->
+Proceed with these steps if the experiment results are insufficient for the AE 'Result reproduced' badges.
+Before proceeding, make sure all figures are generated. 
+Run `cd ~/WARP-FAST26-AE/FIO-scripts/3stream/zoned/fdp/; mv samsung_waf_1sec.txt samsung_waf_1sec_Fig11.txt` to avoid overwritting.
 
+- For Figure 17 and 18, run the following four commands, and each command will take 4 hours
+- Host`./run_fdp_WARP256II10.sh` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-ii-zoned-RU256OP10-AE` -> shutdown vm
+- Host `./run_fdp_WARP256PI10.sh` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` ->`sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-pi-zoned-RU256OP10-AE`
+- Host `./run_fdp_WARP256II14.sh` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-ii-zoned-RU256OP14-AE`
+Figures
+- VM:Run `python3 Fig17.py`
 
 ## Phase 3: Gather figures
-TBD 
-- Once you have run all the experiments, go into the WARP repo directory that you cloned in the beginning and run <python3 -m notebook> and click on the jupyter notebook WARP-AE-FAST26-1.ipynb
-- Start running all cells one by one
+- Host
+  * Run `rsync vm:~/WARPWARP-FAST26-AE/*.jpeg . ` if `ssh vm` is available(See **Tip**)
