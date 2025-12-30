@@ -8,6 +8,22 @@
    * pull the image with `wget https://people.cs.vt.edu/inhoinno/image/femu-vm.tar.xz`. Run `tar -xvf femu-vm.tar.xz` after download.
    * `mkdir image` and `mv u20s.qcow2 image/.`
    * clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and follow FEMU README instructions.
+       * 1.Make sure you have installed necessary libraries for building QEMU. The dependencies can be installed by following instructions below:
+      ```
+      mkdir build-femu
+      # Switch to the FEMU building directory
+      cd build-femu
+      # Copy femu script
+      cp ../femu-scripts/femu-copy-scripts.sh .
+      ./femu-copy-scripts.sh .
+      # only Debian/Ubuntu based distributions supported
+      sudo ./pkgdep.sh
+      ```
+      * 2. Compile & Install FEMU:
+      ```
+      ./femu-compile.sh
+      ```
+
    * After copying scripts and compiling(FEMU README), go `build-femu` dir and run `./run-fdp-WARP4.sh` to start the qemu VM.
    * WARP run-scripts like `./run-fdp-WARP4.sh` assumes the `u20s.qcow2` image is located `~/image/u20s.qcow2`. If you are using a different directory, change the path in `./run-fdp-WARP4.sh`
      ```bash
