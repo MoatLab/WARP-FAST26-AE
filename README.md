@@ -51,7 +51,22 @@
      ```
      pip3 install numpy pandas matplotlib seaborn IPython
      ```
-
+   * To use `nvme fdp` subcommand, `nvme-cli` needs to be recompiled after libjson-c installation.
+     ```
+     sudo apt install libjson-c-dev
+     cd ~/libs/nvme-cli-2.5
+     meson setup .build
+     meson compile -C .build
+     mesonn install -C .build # (This ask sudo privilege)
+     ```
+     Check `nvme fdp fdp stats /dev/ng0n1 -e 1` command works after installation.
+     ```
+      femu@fvm:~/libs/nvme-cli-2.5$ sudo nvme fdp stats /dev/ng0n1 -e 1
+      Host Bytes with Metadata Written (HBMW): 0
+      Media Bytes with Metadata Written (MBMW): 0
+      Media Bytes Erased (MBE): 0
+     ```
+     Then now ready to begin.
 ## Phase 2: experiment run 
 
 #### One stream write experiment (Fig 11)
