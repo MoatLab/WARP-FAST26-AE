@@ -73,18 +73,6 @@ Thank you.
 - Setup for experiment run
    * Access to the VM image `ssh vm`
    * `git clone https://github.com/MoatLab/WARP-FAST26-AE.git`, then you have this repository.
-   * In VM, install python libraries for plotting
-     ```
-     pip3 install numpy pandas matplotlib seaborn IPython
-     ```
-   * To use `nvme fdp` subcommand, `nvme-cli` needs to be recompiled after libjson-c installation.
-     ```
-     sudo apt install libjson-c-dev
-     cd ~/libs/nvme-cli-2.5
-     meson setup .build
-     meson compile -C .build
-     mesonn install -C .build # (This ask sudo privilege)
-     ```
      Check `nvme fdp stats /dev/ng0n1 -e 1` command works after installation.
      ```
       femu@fvm:~/libs/nvme-cli-2.5$ sudo nvme fdp stats /dev/ng0n1 -e 1
@@ -93,6 +81,19 @@ Thank you.
       Media Bytes Erased (MBE): 0
      ```
      Now ready to begin.
+     
+     <details>
+      <summary> Click if `nvme fdp` does not work </summary>
+      
+     ### nvme-cli 
+     To use `nvme fdp` subcommand, `nvme-cli` needs to be recompiled after libjson-c installation.
+     ```
+     sudo apt install libjson-c-dev
+     cd ~/libs/nvme-cli-2.5
+     meson setup .build
+     meson compile -C .build
+     mesonn install -C .build # (This ask sudo privilege)
+     ```
 ## Phase 2: experiment run 
 
 #### One stream write experiment (Fig 11)
