@@ -46,7 +46,7 @@
   Now just type `ssh vm` to access the VM.
 - Setup for experiment run
    * Access to the VM image `ssh vm`
-   * `git clone https://github.com/MoatLab/fdp-exp-scripts.git` then you have this repository.
+   * `git clone https://github.com/MoatLab/WARP-FAST26-AE.git`, then you have this repository.
    * 
 
 ## Phase 2: experiment run 
@@ -58,9 +58,8 @@
    * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -P 18080 femu@localhost`
 
 - VM
-   * `git clone https://github.com/MoatLab/fdp-exp-scripts;` (skip if you have done this)
-   * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
-   * `sudo nohup ./run-fig11.sh &` or `sudo ./run-fig11.sh` (Ctrl^C if goes wrong)
+   * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
+   * `sudo nohup ./run-fig11.sh &` or `sudo ./run-fig11.sh` (Ctrl^C if it goes wrong)
    * Experiment will take ~2hours.
    * `popd` and run `python3 Fig11.py` and check `val-1stream-AE.jpeg` file for Fig11. (Check Fig11.ipynb if you prefer this)
  
@@ -74,7 +73,7 @@
    * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
    * `sudo ./run-fig1316.sh`. (`sudo nohup ./run-fig1316.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
    * Experiment will take ~3hours.
-   * `popd`(or `cd ~/fdp-exp-scripts`) and run `python3 Fig13.py`.
+   * `popd`(or `cd ~/WARP-FAST26-AE`) and run `python3 Fig13.py`.
    * check `3stream_WARP_AE.jpeg` file for Fig13. (Check Fig13.ipynb if you prefer this)
 
 - Host: move `log` file in Host to VM (Fig15&16)
@@ -95,7 +94,7 @@
   * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
   * `sudo ./run-fig14.sh`. (`sudo nohup ./run-fig14.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
   * Experiment will take ~12 hours(4exp*3hr).
-  * `popd`(or `cd ~/fdp-exp-scripts`) and run `python3 Fig14.py`.
+  * `popd`(or `cd ~/WARP-FAST26-AE`) and run `python3 Fig14.py`.
   *  Check `3Syn_CylonA2.jpeg` is generated in the current directory.
 
 
