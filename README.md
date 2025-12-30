@@ -71,7 +71,7 @@
 
 #### One stream write experiment (Fig 11)
 
-- Host (Skip this part is Phase 1 VM is alive)
+- Host (Skip this part if Phase 1 VM is alive)
    * In `build-femu` dir, run `./run-fdp-WARP4.sh`
    * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -P 18080 femu@localhost`
 
