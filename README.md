@@ -47,7 +47,10 @@
 - Setup for experiment run
    * Access to the VM image `ssh vm`
    * `git clone https://github.com/MoatLab/WARP-FAST26-AE.git`, then you have this repository.
-   * 
+   * In VM, install python libraries for plotting
+     ```
+     pip3 install numpy pandas matplotlib seaborn IPython
+     ```
 
 ## Phase 2: experiment run 
 
@@ -61,7 +64,7 @@
    * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
    * `sudo nohup ./run-fig11.sh &` or `sudo ./run-fig11.sh` (Ctrl^C if it goes wrong)
    * Experiment will take ~2hours.
-   * `popd` and run `python3 Fig11.py` and check `val-1stream-AE.jpeg` file for Fig11. (Check Fig11.ipynb if you prefer this)
+   * `popd` and run `python3 Fig11.py` and check `val-1stream-AE.jpeg` file for Fig11. (Check Fig11.ipynb if you prefer this. If the script and results locate the exact path, `[Check!]` mark will appear for all `.txt` file.)
  
 #### Three stream write experiment (Fig 13,15, and 16)
 (shutdown previous VM if the previous one is alive.)
@@ -102,13 +105,13 @@
 Proceed this step if the experiment results are insufficient for the AE 'Result reproduced' badges.
 TBD 
 - For Figure 17 and 18, run following four commands and each command will take 4 hours
-- "./run_fdp_WARP256II10.sh"
-- "./run_fdp_WARP256PI10.sh"
-- "./run_fdp_WARP256II7.sh"
-- "./run_fdp_WARP256P17.sh"
+- Host`./run_fdp_WARP256II10.sh` -> 
+- Host `./run_fdp_WARP256PI10.sh` ->
+- Host `./run_fdp_WARP256II7.sh` ->
+- Host `./run_fdp_WARP256P17.sh` ->
 
 
-## Phase 3: Generate figures
+## Phase 3: Gather figures
 TBD 
 - Once you have run all the experiments, go into the WARP repo directory that you cloned in the beginning and run <python3 -m notebook> and click on the jupyter notebook WARP-AE-FAST26-1.ipynb
 - Start running all cells one by one
