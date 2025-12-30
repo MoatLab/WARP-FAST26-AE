@@ -4,8 +4,19 @@
 
 - Hardware and environment: a KVM-enabled x86_64 server with Linux 6.2.14 or 6.5.6.
 - DRAM requirement: 500GB+ DRAM (Over 500GB enabled to run 2VMs at the same time(224G*2))
-- VM preparation: clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and pull the image with <command>. Then, move into <director> and run <./run_fdp_RU256.sh> to start the qemu VM
-- Then connect to VM using this ssh <ssh -P 18080 warp@localhost>
+- VM preparation
+   * pull the image with `wget https://people.cs.vt.edu/inhoinno/image/femu-vm.tar.xz`. Run `tar -xvf femu-vm.tar.xz` after download.
+   * `mkdir image` and `mv u20s.qcow2 image/.`
+   * clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and follow FEMU README instructions.
+   * After copying scripts and compiling(FEMU README), go `build-femu` dir and run `./run-fdp-WARP4.sh` to start the qemu VM.
+   * WARP run-scripts like `./run-fdp-WARP4.sh` assumes the `u20s.qcow2` image is located `~/image/u20s.qcow2`. If you are using a different directory, change the path in `./run-fdp-WARP4.sh`
+     ```bash
+     # image directory
+     IMGDIR=$HOME/image
+     # Virtual machine disk image
+     OSIMGF=$IMGDIR/u20s.qcow2
+     ```
+- Open another terminal and connect to VM using this ssh <ssh -P 18080 femu@localhost>. pw is femu.
 - This process will consume about 1 hour, and most of the time will be spent pulling the image.
 - **Tip** Open `~/.ssh/config` and add this entry for vm.
   ```
@@ -16,6 +27,11 @@
     ServerAliveInterval 20
     ServerAliveCountMax 2147483
   ```
+  Now just type `ssh vm` to access the VM.
+- Setup for experiment run
+   * Access to the VM image `ssh vm`
+   * `git clone https://github.com/MoatLab/fdp-exp-scripts.git` then you have this repository.
+   * 
 
 ## Phase 2: experiment run 
 
