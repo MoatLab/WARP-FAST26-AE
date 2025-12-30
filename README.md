@@ -1,5 +1,31 @@
 # WARP evaluation procedure and requirements
+```
+Dear FAST artifact evaluation committees,
 
+This repository is for artifact reproduction of 'Characterizing and Emulating FDP SSDs with WARP' (AE #51).
+We hope this document helps to reproduce the results of WARP, given that this is also an open-source contribution for the community.
+
+We select a couple of experiments for the artifact evaluation of this paper. 
+The results of this paper convey both real SSDs and WARP write amplification results.
+These require making a workload size 5 to 10 times the device capacity for a thorough investigation.
+This leads to 4 to 5 hours for each line in a single figure in this paper.
+Artifact evaluation for this paper, therefore, will consume more than 100hours, approximately 1 week to reproduce all experiments result and plot them.
+Plus, in the paper, there are real FDP SSD experiments.
+Some experiments take at least 4 hours to run.
+At most, 1 week of one experiment to collect the write amplification result from a real SSD(e.g., CacheLib).
+Given that one experiment corresponds to one line in the figure, the actual amount of time to reproduce all the results will take more than a month.
+These numbers assume that the experiment successfully finished without any human mistakes (e.g., incorrect parameter setting or script) and unexpected system failure.
+
+Since this amount of time is a burden for artifact evaluation, we collect and select core experiments that represent this paper the most.
+Given that the contributions of this paper are explaining the write amplification phenomenon with WARP and the reliability of WARP itself,
+We select and organize the following experiments for FAST artifact evaluation.
+
+This document will help you to initiate experiments, generate results, make and check figures in the paper.
+Due to the amount of time, we first recommend generating and evaluating a subset of each figure, instead of reproducing all exps for a single figure (e.g., Fig. 13a, FDP line).
+Although we are providing instructions for selected experiments, we prepare all experiment scripts for the entire experiment in the paper.
+
+Thank you.
+```
 ## Phase 1: infrastructure setup
 
 - Hardware and environment: a KVM-enabled x86_64 server with Linux 6.2.14 or 6.5.6.
