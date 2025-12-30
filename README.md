@@ -122,10 +122,10 @@ Before proceeding, make sure all figures are generated.
 Run `cd ~/WARP-FAST26-AE/FIO-scripts/3stream/zoned/fdp/; mv samsung_waf_1sec.txt samsung_waf_1sec_Fig11.txt` to avoid overwritting.
 
 - For Figure 17 and 18, run the following four commands, and each experiment will take 4 hours
-- Host:locate to `build-femu` directory and run `./run_fdp_WARP256II10.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-ii-zoned-RU256OP10-AE` -> shutdown vm
--  Host:locate to `build-femu` directory and run  `./run_fdp_WARP256PI10.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` ->`sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-pi-zoned-RU256OP10-AE`
--  Host:locate to `build-femu` directory and run  `./run_fdp_WARP256II14.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-ii-zoned-RU256OP14-AE`
--  Host:locate to `build-femu` directory and run  `./run_fdp_WARP256PI14.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-pi-zoned-RU256OP14-AE`
+- Host:locate to `build-femu` directory and run `./run_fdp_WARP256II10.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `cat log | grep "is_force" > temp`-> `rsync temp vm:~/WARP-FAST26-AE/archive/ops-log/log-ii-zoned-RU256OP10-AE` -> shutdown vm
+- Host:locate to `build-femu` directory and run  `./run_fdp_WARP256PI10.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` ->`sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `cat log | grep "is_force" > temp`-> `rsync temp vm:~/WARP-FAST26-AE/archive/ops-log/log-pi-zoned-RU256OP10-AE`
+- Host:locate to `build-femu` directory and run  `./run_fdp_WARP256II14.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `cat log | grep "is_force" > temp` -> `rsync temp vm:~/WARP-FAST26-AE/archive/ops-log/log-ii-zoned-RU256OP14-AE`
+- Host:locate to `build-femu` directory and run  `./run_fdp_WARP256PI14.sh` -> `ssh vm` -> VM `cd ~/WARP-FAST26-AE/FIO-scripts/3stream` -> `sudo ./run_metascript_one.sh` -> (~4hr Fin) -> Host:locate to `build-femu` directory -> `cat log | grep "is_force" > temp` -> `rsync temp vm:~/WARP-FAST26-AE/archive/ops-log/log-pi-zoned-RU256OP14-AE`
 - VM:Run `python3 Fig17.py`
 
 ## Phase 3: Gather figures
