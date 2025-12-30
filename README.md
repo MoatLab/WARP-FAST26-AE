@@ -5,7 +5,7 @@
 - Hardware and environment: a KVM-enabled x86_64 server with Linux 6.2.14 or 6.5.6.
 - DRAM requirement: 500GB+ DRAM (Over 500GB enabled to run 2VMs at the same time(224G*2))
 - VM preparation
-   * pull the image with `wget https://people.cs.vt.edu/inhoinno/image/femu-vm.tar.xz`. Run `tar -xvf femu-vm.tar.xz` after download.
+   * pull the image with `wget https://people.cs.vt.edu/inhoinno/image/u20s.qcow2.xz`. Run `tar -xvf femu-vm.tar.xz` after download.
    * `mkdir image` and `mv u20s.qcow2 image/.`
    * clone the WARP repo with `git https://github.com/inhoinno/WARP-earlyaccess.git` and follow FEMU README instructions.
        * 1.Make sure you have installed necessary libraries for building QEMU. The dependencies can be installed by following instructions below:
