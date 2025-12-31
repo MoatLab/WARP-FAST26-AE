@@ -97,7 +97,11 @@ Thank you.
 ## Phase 2: experiment run 
 
 #### One stream write experiment (Fig 11)
-
+**NOTE: Check whether FDP SSD emul works as a FDP mode (WARP-earlyaccess/hw/femu/bbssd/ftl.h:11)**
+```
+#define SSD_STREAM_WRITE 
+//#define FORCE_NOFDP <- disabled is correct
+```
 - Host (Skip this part if Phase 1 VM is alive)
    * In `build-femu` dir, run `./run-fdp-WARP4.sh`
    * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -P 18080 femu@localhost`
