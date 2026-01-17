@@ -94,33 +94,33 @@ Thank you.
      meson compile -C .build
      mesonn install -C .build # (This ask sudo privilege)
      ```
-  - **What if we want to run with different memory size(e.g., 128GB or 1024GB device size)?** Here is the way how to scale resources accordingly
-    In `build-femu` dir, there are multiple scripts for different configurations. For example, this is an example of `run-fdp-RU256.sh` (WARP-5 setting).
-    ```
-    # Configurable SSD Controller layout parameters (must be power of 2)
-    secsz=512
-    secs_per_pg=8		#4KiB 
-    pgs_per_blk=1024 	#1024*4K:4MB (RU : 256MiB)
-    blks_per_pl=985 	#4MB * 8 * 8 =RU 256MiB -> 985 = (224*1.1*1024)/256
-    pls_per_lun=1       # still not support multiplanes		
-    luns_per_ch=8		
-    nchs=8  			
-    ssd_size=229376		# in MegaBytes  
-    ```
-    This assumes RU size to 256MB, SSD size 224GB.
-    To shrink this to 128GB drive, change `blks_per_pl` and `ssd_size` parameters. (Recommend this for the easiest way).
-    To scale the resource size, change RU 128MB and SSD size 128GB.
-    ```
-    # Configurable SSD Controller layout parameters (must be power of 2)
-    secsz=512
-    secs_per_pg=8		#4KiB 
-    pgs_per_blk=512 	#512*4K:2MB (RU : 128MiB)
-    blks_per_pl=1126 	#2MB * 8 * 8 =RU 128MiB -> 1126.4 = (128*1.1*1024)/128   
-    pls_per_lun=1    
-    luns_per_ch=8		
-    nchs=8  			
-    ssd_size=229376		# in MegaBytes  
-    ```
+- **What if we want to run with different memory size(e.g., 128GB or 1024GB device size)?** Here is the way how to scale resources accordingly
+  In `build-femu` dir, there are multiple scripts for different configurations. For example, this is an example of `run-fdp-RU256.sh` (WARP-5 setting).
+  ```
+  # Configurable SSD Controller layout parameters (must be power of 2)
+  secsz=512
+  secs_per_pg=8		#4KiB 
+  pgs_per_blk=1024 	#1024*4K:4MB (RU : 256MiB)
+  blks_per_pl=985 	#4MB * 8 * 8 =RU 256MiB -> 985 = (224*1.1*1024)/256
+  pls_per_lun=1       # still not support multiplanes		
+  luns_per_ch=8		
+  nchs=8  			
+  ssd_size=229376		# in MegaBytes  
+  ```
+  This assumes RU size to 256MB, SSD size 224GB.
+  To shrink this to 128GB drive, change `blks_per_pl` and `ssd_size` parameters. (Recommend this for the easiest way).
+  To scale the resource size, change RU 128MB and SSD size 128GB.
+  ```
+  # Configurable SSD Controller layout parameters (must be power of 2)
+  secsz=512
+  secs_per_pg=8		#4KiB 
+  pgs_per_blk=512 	#512*4K:2MB (RU : 128MiB)
+  blks_per_pl=1126 	#2MB * 8 * 8 =RU 128MiB -> 1126.4 = (128*1.1*1024)/128   
+  pls_per_lun=1    
+  luns_per_ch=8		
+  nchs=8  			
+  ssd_size=229376		# in MegaBytes  
+  ```
 
     
 ## Phase 2: experiment run 
