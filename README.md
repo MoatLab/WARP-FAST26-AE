@@ -104,7 +104,7 @@ Thank you.
 ```
 - Host (Skip this part if Phase 1 VM is alive)
    * In `build-femu` dir, run `./run-fdp-WARP4.sh`
-   * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -P 18080 femu@localhost`
+   * ssh to VM `ssh vm` (See **Tip** in Phase 1.) or `ssh -p 18080 femu@localhost`
 
 - VM
    * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
@@ -116,7 +116,7 @@ Thank you.
 (shutdown previous VM if the previous one is alive.)
 - Host
    * In `build-femu` dir, run `./run-fdp-RU256.sh`
-   * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+   * ssh to VM `ssh vm` (See **Tip**) or `ssh -p 18080 femu@localhost`
  
 - VM
    * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
@@ -128,7 +128,7 @@ Thank you.
 - Host: move `log` file in Host to VM (Fig15&16)
    * In the host machine(outside VM), locate to `build-femu` directory. 
    * `rsync log vm:~/fdp-exp-scripts/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
-   * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+   * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -p 18080 femu@localhost`
  
 - VM
    * `cd WARP-FAST26-AE;' and run `python3 Fig1516.py`
@@ -138,7 +138,7 @@ Thank you.
 (shutdown previous VM if the previous one is alive.)
 - Host
   * In `build-femu` dir, run `./run-fdp-RU128-WARPA2.sh`
-  * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
+  * ssh to VM `ssh vm` (See **Tip**) or `ssh -p 18080 femu@localhost`
 - VM
    * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
   * `sudo ./run-fig14.sh`. (`sudo nohup ./run-fig14.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
