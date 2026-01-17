@@ -119,7 +119,7 @@ Thank you.
    * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
  
 - VM
-   * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
+   * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
    * `sudo ./run-fig1316.sh`. (`sudo nohup ./run-fig1316.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
    * Experiment will take ~3hours.
    * `popd`(or `cd ~/WARP-FAST26-AE`) and run `python3 Fig13.py`.
@@ -131,7 +131,7 @@ Thank you.
    * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
  
 - VM
-   * `cd ~/fdp-exp-scripts` and run `python3 Fig1516.py`
+   * `cd WARP-FAST26-AE;' and run `python3 Fig1516.py`
    * Check `fdp_3syn_investigation-HBMWDLWA-AE.jpeg` and `Noisy.jpeg`. (Check Fig131516.ipynb if you prefer this)
  
 #### Three stream write experiment (Fig 14)
@@ -140,7 +140,7 @@ Thank you.
   * In `build-femu` dir, run `./run-fdp-RU128-WARPA2.sh`
   * ssh to VM `ssh vm` (See **Tip**) or `ssh -P 18080 femu@localhost`
 - VM
-  * `cd fdp-exp-scripts; pushd .; cd FIO-scripts/`
+   * `cd WARP-FAST26-AE; pushd .; cd FIO-scripts/`
   * `sudo ./run-fig14.sh`. (`sudo nohup ./run-fig14.sh &` if you already have a root shell. Ctrl^C if it goes wrong)
   * Experiment will take ~12 hours(4exp*3hr).
   * `popd`(or `cd ~/WARP-FAST26-AE`) and run `python3 Fig14.py`.
