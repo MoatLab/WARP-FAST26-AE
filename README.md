@@ -119,7 +119,7 @@ Thank you.
   pls_per_lun=1    
   luns_per_ch=8		
   nchs=8  			
-  ssd_size=229376		# in MegaBytes  
+  ssd_size=131072		# in MegaBytes  
   ```
 
     
