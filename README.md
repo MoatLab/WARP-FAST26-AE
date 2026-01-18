@@ -58,7 +58,7 @@ Thank you.
      # Virtual machine disk image
      OSIMGF=$IMGDIR/u20s.qcow2
      ```
-- Open another terminal and connect to VM using this ssh <ssh -P 18080 femu@localhost>. pw is femu.
+- Open another terminal and connect to VM using this ssh <ssh -p 18080 femu@localhost>. pw is femu.
 - This process will consume about 1 hour, and most of the time will be spent pulling the image.
 - **Tip** Open `~/.ssh/config` and add this entry for vm.
   ```
