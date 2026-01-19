@@ -155,12 +155,14 @@ Thank you.
    * check `3stream_WARP_AE.jpeg` file for Fig13. (Check Fig13.ipynb if you prefer this)
 
 - Host: move `log` file in Host to VM (Fig15&16)
-   * In the host machine(outside VM), locate to `build-femu` directory. 
-   * `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
+   * In the host machine(outside VM), locate to `build-femu` directory.
+   * `cat log | grep is_force > log-gc-zoned-fdp-AE`
+   * `rsync log-gc-zoned-fdp-AE vm:~/WARP-FAST26-AE/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
    * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -p 18080 femu@localhost`
  
 - VM
-   * `cd WARP-FAST26-AE;' and run `python3 Fig1516.py`
+   * `cd WARP-FAST26-AE;'
+   * run `python3 Fig1516.py`
    * Check `fdp_3syn_investigation-HBMWDLWA-AE.jpeg` and `Noisy.jpeg`. (Check Fig131516.ipynb if you prefer this)
  
 #### Three stream write experiment (Fig 14)
