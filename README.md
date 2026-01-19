@@ -156,7 +156,7 @@ Thank you.
 
 - Host: move `log` file in Host to VM (Fig15&16)
    * In the host machine(outside VM), locate to `build-femu` directory. 
-   * `rsync log vm:~/fdp-exp-scripts/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
+   * `rsync log vm:~/WARP-FAST26-AE/archive/ops-log/log-gc-zoned-fdp-AE` (See **Tip** in Phase 1.)
    * Then ssh to VM `ssh vm` (See **Tip**) or `ssh -p 18080 femu@localhost`
  
 - VM
